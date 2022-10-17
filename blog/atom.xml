@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://relanit.github.io/modboty-docs/blog</id>
+    <title>ModBoty Blog</title>
+    <updated>2022-10-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://relanit.github.io/modboty-docs/blog"/>
+    <subtitle>ModBoty Blog</subtitle>
+    <icon>https://relanit.github.io/modboty-docs/img/MODS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Документация]]></title>
+        <id>documentation</id>
+        <link href="https://relanit.github.io/modboty-docs/blog/documentation"/>
+        <updated>2022-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Создана подробная документация по боту]]></summary>
+        <content type="html"><![CDATA[<p>Создана подробная документация по боту</p>]]></content>
+        <author>
+            <name>Relanit</name>
+            <uri>https://twitch.tv/Relanit</uri>
+        </author>
+        <category label="modboty" term="modboty"/>
+    </entry>
+</feed>
