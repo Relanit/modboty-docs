@@ -43,6 +43,10 @@ html[data-theme='dark'] .header-github-link:before {
   background-color: #1a1a1a;
 }
 
+.card {
+  background-color: #242424;
+}
+
 .theme-doc-sidebar-container {
   background-color: #171717;
 }
