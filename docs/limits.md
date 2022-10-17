@@ -1,7 +1,7 @@
 ---
 id: limits
-title: Ограничения бота
-description: Ограничения бота
+title: Ограничения
+description: Ограничения
 slug: /limits
 ---
 

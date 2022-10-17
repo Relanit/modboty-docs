@@ -23,7 +23,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--primary button--lg"
-            to="docs/category/возможности-бота"
+            to="docs/category/возможности"
           >
             Документация
           </Link>
