@@ -9,7 +9,7 @@ const config = {
   title: 'ModBoty',
   tagline: 'Автоматизация модерации',
   url: 'https://relanit.github.io/',
-  baseUrl: '/modboty/',
+  baseUrl: '/modboty-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/MODS.ico',
