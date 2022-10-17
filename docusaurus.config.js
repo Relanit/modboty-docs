@@ -61,7 +61,7 @@ const config = {
         logo: {
           className: 'docsearch-logo',
           alt: 'ModBoty Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
