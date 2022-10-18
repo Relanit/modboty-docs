@@ -59,5 +59,6 @@ html[data-theme='dark'] .header-github-link:before {
 @media screen and (max-width: 600px) {
   .hero__title {
     width: 200px;
+    min-height: 0px;
   }
 }
