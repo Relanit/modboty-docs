@@ -32,7 +32,12 @@ html[data-theme='dark'] .header-github-link:before {
 }
 
 .hero__title {
-  font-size: 55px;
+  text-indent: -9999px;
+  background: url("../../static/img/logo.svg") no-repeat;
+  background-size:contain;
+  margin: auto;
+  width: 300px;
+  min-height: 80px;
 }
 
 .navbar {
@@ -51,8 +56,8 @@ html[data-theme='dark'] .header-github-link:before {
   background-color: #171717;
 }
 
-@media screen and (max-width: 996px) {
+@media screen and (max-width: 600px) {
   .hero__title {
-    font-size: 45px;
+    width: 200px;
   }
 }

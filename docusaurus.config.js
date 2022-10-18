@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ModBoty',
-  tagline: 'Автоматизация модерации',
+  tagline: 'Упростите работу модераторов',
   url: 'https://relanit.github.io/',
   baseUrl: '/modboty-docs/',
   onBrokenLinks: 'throw',
@@ -59,7 +59,7 @@ const config = {
     ({
       navbar: {
         logo: {
-          className: 'docsearch-logo',
+          className: 'logo',
           alt: 'ModBoty Logo',
           src: 'img/logo.svg',
         },
