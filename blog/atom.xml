@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://relanit.github.io/modboty-docs/blog</id>
     <title>ModBoty Blog</title>
-    <updated>2022-10-19T00:00:00.000Z</updated>
+    <updated>2022-10-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://relanit.github.io/modboty-docs/blog"/>
     <subtitle>ModBoty Blog</subtitle>
     <icon>https://relanit.github.io/modboty-docs/img/MODS.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Бан первых сообщений]]></title>
-        <id>mbf</id>
-        <link href="https://relanit.github.io/modboty-docs/blog/mbf"/>
-        <updated>2022-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Добавлен бан первых сообщений]]></summary>
-        <content type="html"><![CDATA[<p>Добавлен <a href="/modboty-docs/blog/docs/features/massban#%D0%B1%D0%B0%D0%BD-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9">бан первых сообщений</a></p>]]></content>
-        <author>
-            <name>Relanit</name>
-            <uri>https://twitch.tv/Relanit</uri>
-        </author>
-        <category label="modboty" term="modboty"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Документация]]></title>
         <id>documentation</id>

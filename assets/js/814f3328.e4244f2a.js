@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodboty_docs=self.webpackChunkmodboty_docs||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f","permalink":"/modboty-docs/blog/documentation"}]}')}}]);
