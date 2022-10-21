@@ -16,7 +16,7 @@
         <content type="html"><![CDATA[<p><a href="/modboty-docs/blog/docs/features/massban#%D0%B1%D0%B0%D0%BD-%D0%BF%D0%BE-%D1%84%D1%80%D0%B0%D0%B7%D0%B5">!mb</a> теперь может автоматически находить банфразу</p>]]></content>
         <author>
             <name>Relanit</name>
-            <uri>https://twitch.tv/Relanit</uri>
+            <uri>https://github.com/Relanit</uri>
         </author>
         <category label="modboty" term="modboty"/>
     </entry>
@@ -29,7 +29,7 @@
         <content type="html"><![CDATA[<p>Создана подробная документация по боту</p>]]></content>
         <author>
             <name>Relanit</name>
-            <uri>https://twitch.tv/Relanit</uri>
+            <uri>https://github.com/Relanit</uri>
         </author>
         <category label="modboty" term="modboty"/>
     </entry>
