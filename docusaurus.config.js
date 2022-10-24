@@ -61,7 +61,7 @@ const config = {
         logo: {
           className: 'logo',
           alt: 'ModBoty Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo1.svg',
         },
         items: [
           {

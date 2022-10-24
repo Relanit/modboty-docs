@@ -30,7 +30,7 @@
 .hero__title {
   text-indent: -9999px;
   background: url("../../static/img/logo.svg") no-repeat;
-  background-size:contain;
+  background-size: contain;
   margin: auto;
   width: 300px;
   min-height: 80px;
