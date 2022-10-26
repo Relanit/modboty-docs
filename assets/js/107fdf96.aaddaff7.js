@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmodboty_docs=self.webpackChunkmodboty_docs||[]).push([[320],{6343:o=>{o.exports=JSON.parse('[{"label":"modboty","permalink":"/modboty-docs/blog/tags/modboty","count":2}]')}}]);
