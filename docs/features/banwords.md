@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Запрещённые слова, за отправку которых пользователь получает бан/мут
 
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/banwords.py)**
+
 ## Создание банворда
 `!bword value`
 - `value` - фраза
