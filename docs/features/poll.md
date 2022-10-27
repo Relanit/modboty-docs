@@ -11,7 +11,7 @@ sidebar_position: 6
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/poll.py)**
 
 ## Создание опроса
-`!poll duration title / option / option` - список команд
+`!poll duration title / option / option`
 - `duration` - продолжительность опроса в секундах (от 15 до 1800)
 - `title` - заголовок опроса (до 60 символов)
 - `option` - вариант выбора (до 5 штук, до 25 символов)
