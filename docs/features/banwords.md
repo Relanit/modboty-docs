@@ -9,13 +9,13 @@ sidebar_position: 1
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/banwords.py)**
 
 ## Создание банворда
-`!bword value`
-- `value` - фраза
+`!bword phrase`
+- `phrase` - фраза
 
 ## Создание мутворда
-`!mword duration value`
+`!mword duration phrase`
 - `duration` - длительность мута в секундах
-- `value` - фраза
+- `phrase` - фраза
 
 ## Просмотр банвордов/мутвордов
 `!bwords` или `!mwords` для просмотра банвордов и мутвордов соответственно
