@@ -4,10 +4,19 @@
         <title>ModBoty Blog</title>
         <link>https://relanit.github.io/modboty-docs/blog</link>
         <description>ModBoty Blog</description>
-        <lastBuildDate>Thu, 27 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Настройки стрима]]></title>
+            <link>https://relanit.github.io/modboty-docs/blog/predistreaminfoction</link>
+            <guid>predistreaminfoction</guid>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлены настройки стрима]]></description>
+            <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/streaminfo">настройки стрима</a></p>]]></content:encoded>
+            <category>modboty</category>
+        </item>
         <item>
             <title><![CDATA[Ставки]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/prediction</link>
@@ -33,15 +42,6 @@
             <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[!mb теперь может автоматически находить банфразу]]></description>
             <content:encoded><![CDATA[<p><a href="/modboty-docs/blog/docs/features/massban#%D0%B1%D0%B0%D0%BD-%D0%BF%D0%BE-%D1%84%D1%80%D0%B0%D0%B7%D0%B5">!mb</a> теперь может автоматически находить банфразу</p>]]></content:encoded>
-            <category>modboty</category>
-        </item>
-        <item>
-            <title><![CDATA[Документация]]></title>
-            <link>https://relanit.github.io/modboty-docs/blog/documentation</link>
-            <guid>documentation</guid>
-            <pubDate>Mon, 17 Oct 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Создана подробная документация по боту]]></description>
-            <content:encoded><![CDATA[<p>Создана подробная документация по боту</p>]]></content:encoded>
             <category>modboty</category>
         </item>
     </channel>
