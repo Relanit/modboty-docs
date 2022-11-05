@@ -1,5 +1,5 @@
 ---
-slug: predistreaminfoction
+slug: streaminfo
 title: Настройки стрима
 authors: [Relanit]
 tags: [modboty]
