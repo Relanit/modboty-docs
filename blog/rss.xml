@@ -4,14 +4,23 @@
         <title>ModBoty Blog</title>
         <link>https://relanit.github.io/modboty-docs/blog</link>
         <description>ModBoty Blog</description>
-        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
         <item>
+            <title><![CDATA[Редакторы бота]]></title>
+            <link>https://relanit.github.io/modboty-docs/blog/editors</link>
+            <guid>editors</guid>
+            <pubDate>Sun, 06 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлены редакторы бота]]></description>
+            <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/editors">редакторы бота</a></p>]]></content:encoded>
+            <category>modboty</category>
+        </item>
+        <item>
             <title><![CDATA[Настройки стрима]]></title>
-            <link>https://relanit.github.io/modboty-docs/blog/predistreaminfoction</link>
-            <guid>predistreaminfoction</guid>
+            <link>https://relanit.github.io/modboty-docs/blog/streaminfo</link>
+            <guid>streaminfo</guid>
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлены настройки стрима]]></description>
             <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/streaminfo">настройки стрима</a></p>]]></content:encoded>

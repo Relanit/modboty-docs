@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://relanit.github.io/modboty-docs/blog</id>
     <title>ModBoty Blog</title>
-    <updated>2022-11-01T00:00:00.000Z</updated>
+    <updated>2022-11-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://relanit.github.io/modboty-docs/blog"/>
     <subtitle>ModBoty Blog</subtitle>
     <icon>https://relanit.github.io/modboty-docs/img/MODS.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Редакторы бота]]></title>
+        <id>editors</id>
+        <link href="https://relanit.github.io/modboty-docs/blog/editors"/>
+        <updated>2022-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Добавлены редакторы бота]]></summary>
+        <content type="html"><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/editors">редакторы бота</a></p>]]></content>
+        <author>
+            <name>Relanit</name>
+            <uri>https://github.com/Relanit</uri>
+        </author>
+        <category label="modboty" term="modboty"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Настройки стрима]]></title>
-        <id>predistreaminfoction</id>
-        <link href="https://relanit.github.io/modboty-docs/blog/predistreaminfoction"/>
+        <id>streaminfo</id>
+        <link href="https://relanit.github.io/modboty-docs/blog/streaminfo"/>
         <updated>2022-11-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Добавлены настройки стрима]]></summary>
         <content type="html"><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/streaminfo">настройки стрима</a></p>]]></content>
