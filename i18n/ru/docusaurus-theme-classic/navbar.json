@@ -1,0 +1,10 @@
+{
+  "item.label.Документация": {
+    "message": "Документация",
+    "description": "Navbar item with label Документация"
+  },
+  "item.label.Новости": {
+    "message": "Новости",
+    "description": "Navbar item with label Новости"
+  }
+}

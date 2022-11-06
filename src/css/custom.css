@@ -7,6 +7,13 @@
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+  /* --search-local-hit-active-color: #78BA52; */
+  /* --search-local-highlight-color: #78BA52; */
+  --search-local-modal-background: #171717;
+  --search-local-modal-shadow: inset 1px 1px 0 0 #242424, 1px 3px 5px 0 #000309;
+  --search-local-hit-background: #242424;
+  --ifm-navbar-search-input-color: #e3e3e3;
+  --ifm-navbar-search-input-background-color: #3b4046;
 }
 
 [data-theme='dark'] {

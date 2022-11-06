@@ -88,6 +88,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
     }),
+    themes: [
+      ['@easyops-cn/docusaurus-search-local', ({hashed: true, language: ["ru", "en"], searchBarShortcutHint: false})],
+    ],
 };
 
 module.exports = config;
