@@ -65,6 +65,10 @@
     width: 200px;
     min-height: 0px;
   }
+
+  .logo {
+    width: 100px;
+  }
 }
 
 li > a.menu__link {
