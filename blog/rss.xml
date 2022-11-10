@@ -4,10 +4,19 @@
         <title>ModBoty Blog</title>
         <link>https://relanit.github.io/modboty-docs/blog</link>
         <description>ModBoty Blog</description>
-        <lastBuildDate>Sun, 06 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Управление випами]]></title>
+            <link>https://relanit.github.io/modboty-docs/blog/vips</link>
+            <guid>vips</guid>
+            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлено управление випами]]></description>
+            <content:encoded><![CDATA[<p>Добавлено <a href="/modboty-docs/blog/docs/features/vips">управление випами</a></p>]]></content:encoded>
+            <category>modboty</category>
+        </item>
         <item>
             <title><![CDATA[Редакторы бота]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/editors</link>
