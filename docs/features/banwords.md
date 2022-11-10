@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Банворды/мутворды
@@ -25,6 +25,6 @@ sidebar_position: 1
 :::
 
 ## Удаление банвордов/мутвордов
-Банворды - `!delb value`
+Банворды - `!delb phrase`
 
-Мутворды - `!delm value`
+Мутворды - `!delm phrase`

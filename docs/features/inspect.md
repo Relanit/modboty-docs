@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Лимиты отправки сообщений
@@ -64,3 +64,6 @@ sidebar_position: 2
 
 ### Статистика наблюдения за стрим
 `!inspect stats`
+
+### Просмотр настроек
+`!inspect`
