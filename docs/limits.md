@@ -11,9 +11,11 @@ slug: /limits
 
 ## Другие ограничения
 
-- 50 [банвордов](features/banwords)
-- 40 кастомных [команд](features/links)
-- 5 [элиасов](features/links#элиасы) на команду
-- 5 [таймеров](features/timers)
-- Спам [командой](features/links) до 15 сообщений с кд в 3 секунды
-- [!mb](features/massban#бан-по-фразе) и [!m](features/massban#мут-по-фразе) захватывают до 50 старых сообщений
+- 50 [банвордов](features/banwords.md)
+- 40 кастомных [команд](features/links.md)
+- 5 [элиасов](features/links#элиасы.md) на команду
+- 5 активных [таймеров](features/timers.md)
+- Спам [командой](features/links.md) до 15 сообщений с кд в 3 секунды
+- [!mb](features/massban.md#бан-по-фразе) и [!m](features/massban.md#мут-по-фразе) захватывают до 50 старых сообщений
+- 20 [элиасов категорий](features/streaminfo.md#добавить-элиас)
+- 20 [отложенных анвипов](features/vips.md#отложенный-анвип)
