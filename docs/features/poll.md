@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Создание и завершение опросов
 
-Для работы команды требуется **[авторизация](https://relanit.github.io/modboty-docs/docs/auth)**
+Для работы команды требуется **[авторизация](../auth.md)**
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/poll.py)**
 

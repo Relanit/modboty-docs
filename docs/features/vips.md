@@ -6,9 +6,9 @@ sidebar_position: 6
 
 Вип и анвип пользователей
 
-Для работы команды требуется **[авторизация](https://relanit.github.io/modboty-docs/docs/auth)**
+Для работы команды требуется **[авторизация](../auth.md)**
 
-Команда доступна только **[Редакторам бота](/docs/features/editors)**
+Команда доступна только **[Редакторам бота](./editors.md)**
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/vips.py)**
 
