@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Вип и анвип пользователей
 
-Для работы команды требуется **[авторизация](/docs/auth)**
+Для работы команды требуется **[авторизация](https://relanit.github.io/modboty-docs/docs/auth)**
 
 Команда доступна только **[Редакторам бота](/docs/features/editors)**
 
