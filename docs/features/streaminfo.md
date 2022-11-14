@@ -6,7 +6,7 @@ sidebar_position: 9
 
 Изменение названия и категории стрима
 
-Для работы команды требуется **[авторизация](../auth)**
+Для работы команды требуется **[авторизация](/docs/auth)**
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/stream_info.py)**
 

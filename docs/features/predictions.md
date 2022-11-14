@@ -6,7 +6,7 @@ sidebar_position: 8
 
 Создание и редактирование ставок
 
-Для работы команды требуется **[авторизация](../auth)**
+Для работы команды требуется **[авторизация](/docs/auth)**
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/prediction.py)**
 
