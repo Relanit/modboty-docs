@@ -8,7 +8,7 @@ sidebar_position: 7
 
 Для работы команды требуется **[авторизация](../auth.md)**
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/poll.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/poll.py)**
 
 ## Создание опроса
 `!poll duration title / option / option`

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Бан/мут пользователей, написавших сообщение с указанной фразой
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/massban.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/massban.py)**
 
 ## Бан по фразе
 

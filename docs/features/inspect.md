@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Лимиты на количество отправленных сообщений
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/inspect.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/inspect.py)**
 
 ## Управление лимитами
 

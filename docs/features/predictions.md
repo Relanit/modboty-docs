@@ -8,7 +8,7 @@ sidebar_position: 8
 
 Для работы команды требуется **[авторизация](../auth.md)**
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/prediction.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/prediction.py)**
 
 ## Создание ставки
 `!pred duration title / outcome  / outcome`

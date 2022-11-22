@@ -10,7 +10,7 @@ sidebar_position: 6
 
 Команда доступна только **[Редакторам бота](./editors.md)**
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/vips.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/vips.py)**
 
 ## Вип
 `!vip user`

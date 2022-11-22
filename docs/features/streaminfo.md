@@ -8,7 +8,7 @@ sidebar_position: 9
 
 Для работы команды требуется **[авторизация](../auth.md)**
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/stream_info.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/stream_info.py)**
 
 ## Изменение заголовка
 `!t title`

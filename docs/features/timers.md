@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Автоматическая отправка команд с определённым интервалом
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/timer.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/timer.py)**
 
 ## Управление таймерами
 

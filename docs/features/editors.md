@@ -6,7 +6,7 @@ sidebar_position: 10
 
 Настройка редакторов бота и управление доступом к командам
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/commands/editors.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/editors.py)**
 
 ## Добавить редактора
 `!editor login`
