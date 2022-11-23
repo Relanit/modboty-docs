@@ -13,7 +13,7 @@ slug: /limits
 
 - 50 [банвордов](features/banwords.md)
 - 40 кастомных [команд](features/links.md)
-- 5 [элиасов](features/links#элиасы.md) на команду
+- 5 [элиасов](features/links#элиасы) на команду
 - 5 активных [таймеров](features/timers.md)
 - Спам [командой](features/links.md) до 15 сообщений с кд в 3 секунды
 - [!mb](features/massban.md#бан-по-фразе) и [!m](features/massban.md#мут-по-фразе) захватывают до 50 старых сообщений
