@@ -5,4 +5,4 @@ authors: [Relanit]
 tags: [modboty]
 ---
 
-Добавлена [авторизация](docs/auth), добавлены [опросы](docs/features/poll)
+Добавлена [авторизация](docs/auth), добавлены [опросы](docs/features/polls)

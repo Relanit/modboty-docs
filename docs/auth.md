@@ -8,7 +8,7 @@ Twitch **[требует](https://dev.twitch.tv/docs/authentication#user-access-
 
 Список функций:
 - [Управление випами](./features/vips.md)
-- [Опросы](./features/poll.md)
+- [Опросы](./features/polls.md)
 - [Ставки](./features/predictions.md)
 - [Настройки стрима](./features/streaminfo.md)
 

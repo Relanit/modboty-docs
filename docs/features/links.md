@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Кастомные команды для спама (от модераторов) или вызова пользователями
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/link.py)**
+**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links.py)**
 
 ## Управление командами
 
