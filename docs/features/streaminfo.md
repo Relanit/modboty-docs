@@ -7,7 +7,9 @@ custom_edit_url: null
 
 Изменение названия и категории стрима
 
+:::note Примечание
 Для работы команды требуется **[авторизация](../auth.md)**
+:::
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/stream_info.py)**
 

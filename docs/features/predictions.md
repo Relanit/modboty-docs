@@ -7,7 +7,9 @@ custom_edit_url: null
 
 Создание и редактирование ставок
 
+:::note Примечание
 Для работы команды требуется **[авторизация](../auth.md)**
+:::
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/predictions.py)**
 
