@@ -3,6 +3,7 @@ id: limits
 title: Ограничения
 description: Ограничения
 slug: /limits
+custom_edit_url: null
 ---
 
 ## Общие ограничения
