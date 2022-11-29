@@ -14,14 +14,14 @@ custom_edit_url: null
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/predictions.py)**
 
 ## Создание ставки
-`!pred duration title / outcome  / outcome`
+`!pred duration title \ outcome  \ outcome`
 - `duration` - продолжительность ставки в секундах (необязательно, по умолчанию 60)
 - `title` - заголовок ставки
 - `outcome` - возможные исходы (до 10 штук)
 
 Пример:
 ```
-!pred 180 Какое число выпадет? / 1 / 2 / 3
+!pred 180 Какое число выпадет?\1\2\3
 ```
 
 :::caution Осторожно

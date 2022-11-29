@@ -14,14 +14,14 @@ custom_edit_url: null
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/polls.py)**
 
 ## Создание опроса
-`!poll duration title / option / option`
+`!poll duration title \ option \ option`
 - `duration` - продолжительность опроса в секундах (необязательно, по умолчанию 60)
 - `title` - заголовок опроса
 - `option` - вариант выбора (до 5 штук)
 
 Пример:
 ```
-!poll 180 Ваш возраст / до 14 / 14-17 / 18+
+!poll 180 Ваш возраст \ до 14 \ 14-17 \ 18+
 ```
 
 :::caution Осторожно
