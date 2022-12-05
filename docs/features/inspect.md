@@ -3,9 +3,9 @@ sidebar_position: 5
 custom_edit_url: null
 ---
 
-# Лимиты отправки сообщений
+# Защита от флуда
 
-Лимиты на количество отправленных сообщений
+Мут пользователей, нарушающих указанные лимиты отправки сообений
 
 **[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/inspect.py)**
 
