@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/gears-setup-svgrepo-com.svg').default,
     description: (
       <>
-        Команды, таймеры, банворды, защита от спама и флуда, управление випами и многое другое
+        Команды, таймеры, банворды, защита от спама и флуда, 7TV и многое другое
       </>
     ),
   },
