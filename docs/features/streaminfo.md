@@ -12,7 +12,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> t</li>
     <li><b>Элиасы:</b> g, addg, delg, games</li>
-    <li><b>Кулдаун:</b> глобальный 3 секунды</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/stream_info.py"><b>Исходный код</b></a></li>
   </ul>
 </details>

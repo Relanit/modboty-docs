@@ -12,7 +12,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> pred</li>
     <li><b>Элиасы:</b> endpred, delpred, lockpred, reppred</li>
-    <li><b>Кулдаун:</b> глобальный 3 секунды</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/predictions.py"><b>Исходный код</b></a></li>
   </ul>
 </details>

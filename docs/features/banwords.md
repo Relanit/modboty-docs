@@ -12,7 +12,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> bword</li>
     <li><b>Элиасы:</b> mword, delb, delm, bwords, mwords</li>
-    <li><b>Кулдаун:</b> глобальный 5 секунд</li>
+    <li><b>Кулдаун:</b> общий 5 секунд</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/banwords.py"><b>Исходный код</b></a></li>
   </ul>
 </details>

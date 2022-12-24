@@ -12,7 +12,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> mb</li>
     <li><b>Элиасы:</b> mt, m</li>
-    <li><b>Кулдаун:</b> глобальный 60 секунд</li>
+    <li><b>Кулдаун:</b> общий 60 секунд</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/massban.py"><b>Исходный код</b></a></li>
   </ul>
 </details>

@@ -12,7 +12,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> vip</li>
     <li><b>Элиасы:</b> unvip, unvips, delunvip</li>
-    <li><b>Кулдаун:</b> глобальный 3 секунды</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/vips.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
