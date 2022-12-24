@@ -7,7 +7,15 @@ custom_edit_url: null
 
 Настройка редакторов бота и управление доступом к командам
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/editors.py)**
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> editor</li>
+    <li><b>Элиасы:</b> dele</li>
+    <li><b>Кулдаун:</b> глобальный 5 секунд</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/editors.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
 
 ## Добавить редактора
 `!editor login`

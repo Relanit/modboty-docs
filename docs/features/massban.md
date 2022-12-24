@@ -7,7 +7,15 @@ custom_edit_url: null
 
 Бан/мут пользователей, написавших сообщение с указанной фразой
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/massban.py)**
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> mb</li>
+    <li><b>Элиасы:</b> mt, m</li>
+    <li><b>Кулдаун:</b> глобальный 60 секунд</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/massban.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
 
 ## Бан по фразе
 

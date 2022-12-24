@@ -7,11 +7,19 @@ custom_edit_url: null
 
 Изменение названия и категории стрима
 
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> t</li>
+    <li><b>Элиасы:</b> g, addg, delg, games</li>
+    <li><b>Кулдаун:</b> глобальный 3 секунды</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/stream_info.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
+
 :::note Примечание
 Для работы команды требуется **[авторизация](../auth.md)**
 :::
-
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/stream_info.py)**
 
 ## Изменение заголовка
 `!t title`

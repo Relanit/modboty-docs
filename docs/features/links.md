@@ -7,7 +7,15 @@ custom_edit_url: null
 
 Кастомные команды для спама (от модераторов) или вызова пользователями
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links.py)**
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> link</li>
+    <li><b>Элиасы:</b> links, del, aliases, public, announce</li>
+    <li><b>Кулдаун:</b> глобальный 3 секунды</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
 
 ## Управление командами
 

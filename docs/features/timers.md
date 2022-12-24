@@ -7,7 +7,15 @@ custom_edit_url: null
 
 Автоматическая отправка команд с определённым интервалом
 
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/timers.py)**
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> timer</li>
+    <li><b>Элиасы:</b> delt, timers</li>
+    <li><b>Кулдаун:</b> глобальный 3 секунды</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/timers.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
 
 ## Управление таймерами
 

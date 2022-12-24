@@ -7,12 +7,19 @@ custom_edit_url: null
 
 Редактирование 7TV смайлов и управление редакторами
 
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> 7add</li>
+    <li><b>Элиасы:</b> 7del, 7alias, 7editor, 7dele</li>
+    <li><b>Кулдаун:</b> глобальный 5 секунд</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/7tv.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
+
 :::note Примечание
 Для работы команды боту нужна редакторка 7TV с правами на редактирование смайлов и наборов, управление редакторами
 :::
-
-**[Исходный код](https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/7tv.py)**
-
 
 ## Изменение смайлов
 
