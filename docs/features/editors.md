@@ -11,18 +11,15 @@ custom_edit_url: null
   <summary>Общая информация</summary>
   <ul>
     <li><b>Название:</b> editor</li>
-    <li><b>Элиасы:</b> dele</li>
+    <li><b>Элиасы:</b> отсутствуют</li>
     <li><b>Кулдаун:</b> общий 5 секунд</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/editors.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
 ## Добавить редактора
-`!editor login`
-- `login` - логин пользователя
-
-## Удалить редактора
-`!dele login`
+`!editor action login`
+- `action` - `add` или `del`, для добавления и удаления редакторов соответственно
 - `login` - логин пользователя
 
 ## Настройка доступа
@@ -35,7 +32,7 @@ custom_edit_url: null
 `!ban command`
 - `command` - название или элиас команды, `all` для блокировки всех команд
 
-:::note Примечание
+:::note
 При блокировке команды будет ограничен доступ и к всем её элиасам, например, при блокировке !announce будут также заблокированы !link и !links
 :::
 
