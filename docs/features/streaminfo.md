@@ -36,11 +36,11 @@ custom_edit_url: null
 
 
 Пример:
-```
-Модератор: !addg j just chatting
-Модератор: !j
-ModBoty: Установлена категория Just Chatting 
-```
+
+    Модератор: !addg j just chatting
+    Модератор: !j
+    ModBoty: Установлена категория Just Chatting 
+
 
 ### Удалить элиас
 `!delg alias`

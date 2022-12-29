@@ -25,9 +25,9 @@ custom_edit_url: null
 - `text` - текст команды
 
 Пример:
-```
-!link tg https://t.me/relanit
-```
+
+    !link tg https://t.me/relanit
+
 
 ### Вызов команды
 `!name number a`
@@ -36,9 +36,8 @@ custom_edit_url: null
 - `a` - отправить команду с announce (необязательно)
 
 Пример:
-```
-!tg 5
-```
+
+    !tg 5 a
 
 ### Удаление команды
 `!del name`
@@ -71,6 +70,10 @@ custom_edit_url: null
 - `name` - название команды
 - `values` - элиасы команды через пробел, оставьте значение пустым для удаления предыдущих элиасов
 
+Пример:
+
+    !aliases tg тг телега
+
 
 :::note
 Предыдущие элиасы команды будут удалены
@@ -90,6 +93,10 @@ custom_edit_url: null
 ### Изменение announce для отдельных команд
 `!announce name color`
 - `name` - название или элиас команды
+
+Пример:
+
+    !announce tg blue
 
 ## Информация о команде
 `!help name`
