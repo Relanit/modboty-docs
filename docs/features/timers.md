@@ -33,6 +33,10 @@ custom_edit_url: null
 `!timer name value`
 - `value` - `on` или `off` для включения и выключения таймера соответственно
 
+Пример:
+
+    !timer tg off
+
 ### Изменение announce
 `!timer name value`
 - `value` - `a` или `noa` для отправки с и без announce соответственно
@@ -49,6 +53,10 @@ custom_edit_url: null
 ### Режим для отдельных таймеров
 `!timer name value`
 - `value` - `online` или `always` - таймер будет работать только на стриме и всегда соответственно
+
+Пример:
+
+    !timer tg always
 
 ## Информация о таймере
 `!help name`

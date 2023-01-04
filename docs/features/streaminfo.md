@@ -46,6 +46,10 @@ custom_edit_url: null
 `!delg alias`
 - `alias` - элиас категории
 
+Пример:
+
+    !delg j
+
 ### Просмотр элиасов
 `!games`
 
