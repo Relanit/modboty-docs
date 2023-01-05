@@ -37,30 +37,30 @@ custom_edit_url: null
 
 #### С ключевым словом `in` - анвип произойдёт через указанное вами время
 
-    !unvip test in 5m   m - минуты
-    !unvip test in 1h   h - часы
-    !unvip test in 1d   d - дни
-    !unvip test in 2w   w - недели
-    !unvip test in 2mo  mo - месяцы
-    !unvip test in 1y   y - годы
+    !unvip login in 5m   m - минуты
+    !unvip login in 1h   h - часы
+    !unvip login in 1d   d - дни
+    !unvip login in 2w   w - недели
+    !unvip login in 2mo  mo - месяцы
+    !unvip login in 1y   y - годы
 
 
 #### С ключевым словом `on` - анвип произойдёт в указанную дату и/или время
 
-    !unvip test on 1/5  анвип будет 5 января
-    !unvip test on 1st december
-    !unvip test on 21:00
-    !unvip test on 2023.1.1 00:00
-    !unvip test on tomorrow 00:00
-    !unvip test on fri  анвип будет в пятницу
-    !unvip test on next wed   анвип будет в следующую среду
+    !unvip login on 1/5  анвип будет 5 января
+    !unvip login on 1st december
+    !unvip login on 21:00
+    !unvip login on 2023.1.1 00:00
+    !unvip login on tomorrow 00:00
+    !unvip login on fri  анвип будет в пятницу
+    !unvip login on next wed   анвип будет в следующую среду
 
 #### В конце любого варианта можно указать `offline`, тогда анвип будет вне стрима
 
-    !unvip test offline   анвип будет после окончания текущего стрима
-    !unvip test in 2w offline
-    !unvip test in 1mo offline
-    !unvip test on 1/5 offline
+    !unvip login offline   анвип будет после окончания текущего стрима
+    !unvip login in 2w offline
+    !unvip login in 1mo offline
+    !unvip login on 1/5 offline
 
 
 ### Просмотр отложенных анвипов
