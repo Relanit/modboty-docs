@@ -19,12 +19,12 @@ custom_edit_url: null
 
 ## Создание банворда
 `!bword phrase`
-- `phrase` - фраза
+- `phrase` ‒ фраза
 
 ## Создание мутворда
 `!mword duration phrase`
-- `duration` - длительность мута в секундах
-- `phrase` - фраза
+- `duration` ‒ длительность мута в секундах
+- `phrase` ‒ фраза
 
 Пример:
 
@@ -38,6 +38,6 @@ custom_edit_url: null
 :::
 
 ## Удаление банвордов/мутвордов
-Банворды - `!delb phrase`
+Банворды ‒ `!delb phrase`
 
-Мутворды - `!delm phrase`
+Мутворды ‒ `!delm phrase`
