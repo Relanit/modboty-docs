@@ -37,12 +37,16 @@ custom_edit_url: null
 
 #### С ключевым словом `in` ‒ анвип произойдёт через указанное время
 
+    !unvip user in 30s  s - секунды
     !unvip user in 5m   m - минуты
     !unvip user in 1h   h - часы
     !unvip user in 1d   d - дни
     !unvip user in 2w   w - недели
     !unvip user in 2mo  mo - месяцы
     !unvip user in 1y   y - годы
+
+    Можно указывать разные значения слитно
+    !unvip user in 1h30m ‒ анвип произойдёт через полтора часа
 
 
 #### С ключевым словом `on` ‒ анвип произойдёт в указанную дату и/или время
