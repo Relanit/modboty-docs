@@ -69,7 +69,7 @@ custom_edit_url: null
 ## Элиасы команд
 Дополнительные названия команд
 
-`!aliases name action aliases`
+`!alias name action aliases`
 - `name` ‒ название команды
 - `action` ‒ `add` или `del` для добавления и удаления элиасов соответственно
 - `aliases` ‒ элиасы через пробел (необязательно для del)
@@ -77,13 +77,13 @@ custom_edit_url: null
 Примеры:
 
     Добавит элиасы !тг !телега для команды !tg
-    !aliases tg add тг телега
+    !alias tg add тг телега
 
     Удалит все элиасы !tg
-    !aliases tg del   
+    !alias tg del   
 
     Выведет список элиасов !tg
-    !aliases tg  
+    !alias tg  
 
 ## Управление announce
 Отправка команд через /announce
