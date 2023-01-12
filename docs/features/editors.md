@@ -17,7 +17,7 @@ custom_edit_url: null
   </ul>
 </details>
 
-## Добавить редактора
+## Управление редакторами
 `!editor action login`
 - `action` ‒ `add` или `del`, для добавления и удаления редакторов соответственно
 - `login` ‒ логин пользователя
@@ -25,7 +25,6 @@ custom_edit_url: null
 Пример:
 
     !editor add relanit
-    !editor del relanit
 
 ## Настройка доступа
 
