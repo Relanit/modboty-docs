@@ -4,10 +4,19 @@
         <title>ModBoty Blog</title>
         <link>https://relanit.github.io/modboty-docs/blog</link>
         <description>ModBoty Blog</description>
-        <lastBuildDate>Wed, 14 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Импорт команд OldBoty]]></title>
+            <link>https://relanit.github.io/modboty-docs/blog/oldboty_import</link>
+            <guid>oldboty_import</guid>
+            <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлен импорт команд OldBoty, добавлено изменение кд команд]]></description>
+            <content:encoded><![CDATA[<p>Добавлен <a href="/modboty-docs/blog/docs/features/oldboty_import">импорт команд OldBoty</a>, добавлено <a href="/modboty-docs/blog/docs/features/links#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B4-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4">изменение кд команд</a></p>]]></content:encoded>
+            <category>modboty</category>
+        </item>
         <item>
             <title><![CDATA[Редактирование 7TV]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/7tv</link>
