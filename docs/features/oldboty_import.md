@@ -4,7 +4,7 @@ custom_edit_url: null
 
 # Импорт команд OldBoty
 
-Импорт и удаление команд OldBoty.
+Импорт и удаление команд из OldBoty.
 
 <details>
   <summary>Общая информация</summary>
