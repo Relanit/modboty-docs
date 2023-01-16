@@ -37,7 +37,6 @@ custom_edit_url: null
 
 #### С ключевым словом `in` ‒ анвип произойдёт через указанное время
 
-    !unvip user in 30s  s - секунды
     !unvip user in 5m   m - минуты
     !unvip user in 1h   h - часы
     !unvip user in 1d   d - дни
