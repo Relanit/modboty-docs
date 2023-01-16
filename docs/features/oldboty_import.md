@@ -20,5 +20,5 @@ custom_edit_url: null
 ## Импорт команд
 `!oldimport`
 
-## Удаление команд OldBoty после импорта
+## Удаление команд из OldBoty после импорта
 `!olddel`
