@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmodboty_docs=self.webpackChunkmodboty_docs||[]).push([[5078],{9271:o=>{o.exports=JSON.parse('{"permalink":"/modboty-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"blogDescription":"\u041d\u043e\u0432\u043e\u0441\u0442\u0438","blogTitle":"\u041d\u043e\u0432\u043e\u0441\u0442\u0438"}')}}]);

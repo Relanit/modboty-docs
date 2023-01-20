@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://relanit.github.io/modboty-docs/blog</id>
     <title>ModBoty Blog</title>
-    <updated>2023-01-15T00:00:00.000Z</updated>
+    <updated>2023-01-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://relanit.github.io/modboty-docs/blog"/>
     <subtitle>ModBoty Blog</subtitle>
     <icon>https://relanit.github.io/modboty-docs/img/MODS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Автообновление оверлея jChat]]></title>
+        <id>refresh_overlay</id>
+        <link href="https://relanit.github.io/modboty-docs/blog/refresh_overlay"/>
+        <updated>2023-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Добавлено автообновление оверлея jChat, добавлено ключевое слово add для !unvip]]></summary>
+        <content type="html"><![CDATA[<p>Добавлено <a href="/modboty-docs/blog/docs/features/refresh_overlay">автообновление оверлея jChat</a>, добавлено ключевое слово <a href="/modboty-docs/blog/docs/features/vips#%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%83%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%80%D0%BE%D0%BA%D0%B0-%D0%B2%D0%B8%D0%BF%D0%BA%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE-add">add</a> для !unvip</p>]]></content>
+        <author>
+            <name>Relanit</name>
+            <uri>https://github.com/Relanit</uri>
+        </author>
+        <category label="modboty" term="modboty"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Импорт команд OldBoty]]></title>
         <id>oldboty_import</id>
