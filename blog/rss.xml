@@ -4,10 +4,19 @@
         <title>ModBoty Blog</title>
         <link>https://relanit.github.io/modboty-docs/blog</link>
         <description>ModBoty Blog</description>
-        <lastBuildDate>Fri, 20 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Разбан всех пользователей]]></title>
+            <link>https://relanit.github.io/modboty-docs/blog/unbanall</link>
+            <guid>unbanall</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлен разбан всех пользователей]]></description>
+            <content:encoded><![CDATA[<p>Добавлен <a href="/modboty-docs/blog/docs/features/unbanall">разбан всех пользователей</a></p>]]></content:encoded>
+            <category>modboty</category>
+        </item>
         <item>
             <title><![CDATA[Автообновление оверлея jChat]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/refresh_overlay</link>
