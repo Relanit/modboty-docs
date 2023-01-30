@@ -4,10 +4,19 @@
         <title>ModBoty Blog</title>
         <link>https://relanit.github.io/modboty-docs/blog</link>
         <description>ModBoty Blog</description>
-        <lastBuildDate>Fri, 27 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Банворды первых сообщений]]></title>
+            <link>https://relanit.github.io/modboty-docs/blog/banwords_first_messages</link>
+            <guid>banwords_first_messages</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Добавлены Банворды первых сообщений, добавлены репорты]]></description>
+            <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/banwords#%D0%B1%D0%B0%D0%BD%D0%B2%D0%BE%D1%80%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9">Банворды первых сообщений</a>, добавлены <a href="/modboty-docs/blog/docs/features/report">репорты</a></p>]]></content:encoded>
+            <category>modboty</category>
+        </item>
         <item>
             <title><![CDATA[Разбан всех пользователей]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/unbanall</link>
