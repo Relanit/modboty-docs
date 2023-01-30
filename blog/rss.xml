@@ -11,7 +11,7 @@
         <item>
             <title><![CDATA[Банворды первых сообщений]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/banwords_first_messages</link>
-            <guid>banwords_first_messages</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/banwords_first_messages</guid>
             <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлены Банворды первых сообщений, добавлены репорты]]></description>
             <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/banwords#%D0%B1%D0%B0%D0%BD%D0%B2%D0%BE%D1%80%D0%B4%D1%8B-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D1%85-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9">Банворды первых сообщений</a>, добавлены <a href="/modboty-docs/blog/docs/features/report">репорты</a></p>]]></content:encoded>
@@ -20,7 +20,7 @@
         <item>
             <title><![CDATA[Разбан всех пользователей]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/unbanall</link>
-            <guid>unbanall</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/unbanall</guid>
             <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлен разбан всех пользователей]]></description>
             <content:encoded><![CDATA[<p>Добавлен <a href="/modboty-docs/blog/docs/features/unbanall">разбан всех пользователей</a></p>]]></content:encoded>
@@ -29,7 +29,7 @@
         <item>
             <title><![CDATA[Автообновление оверлея jChat]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/refresh_overlay</link>
-            <guid>refresh_overlay</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/refresh_overlay</guid>
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлено автообновление оверлея jChat, добавлено ключевое слово add для !unvip]]></description>
             <content:encoded><![CDATA[<p>Добавлено <a href="/modboty-docs/blog/docs/features/refresh_overlay">автообновление оверлея jChat</a>, добавлено ключевое слово <a href="/modboty-docs/blog/docs/features/vips#%D0%BF%D1%80%D0%BE%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%83%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%80%D0%BE%D0%BA%D0%B0-%D0%B2%D0%B8%D0%BF%D0%BA%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE-add">add</a> для !unvip</p>]]></content:encoded>
@@ -38,7 +38,7 @@
         <item>
             <title><![CDATA[Импорт команд OldBoty]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/oldboty_import</link>
-            <guid>oldboty_import</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/oldboty_import</guid>
             <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлен импорт команд OldBoty, добавлено изменение кд команд]]></description>
             <content:encoded><![CDATA[<p>Добавлен <a href="/modboty-docs/blog/docs/features/oldboty_import">импорт команд OldBoty</a>, добавлено <a href="/modboty-docs/blog/docs/features/links#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B4-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4">изменение кд команд</a></p>]]></content:encoded>
@@ -47,7 +47,7 @@
         <item>
             <title><![CDATA[Редактирование 7TV]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/7tv</link>
-            <guid>7tv</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/7tv</guid>
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлено редактирование 7TV]]></description>
             <content:encoded><![CDATA[<p>Добавлено <a href="/modboty-docs/blog/docs/features/7tv">редактирование 7TV</a></p>]]></content:encoded>
@@ -56,7 +56,7 @@
         <item>
             <title><![CDATA[Управление випами]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/vips</link>
-            <guid>vips</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/vips</guid>
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлено управление випами]]></description>
             <content:encoded><![CDATA[<p>Добавлено <a href="/modboty-docs/blog/docs/features/vips">управление випами</a></p>]]></content:encoded>
@@ -65,7 +65,7 @@
         <item>
             <title><![CDATA[Редакторы бота]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/editors</link>
-            <guid>editors</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/editors</guid>
             <pubDate>Sun, 06 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлены редакторы бота]]></description>
             <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/editors">редакторы бота</a></p>]]></content:encoded>
@@ -74,7 +74,7 @@
         <item>
             <title><![CDATA[Настройки стрима]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/streaminfo</link>
-            <guid>streaminfo</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/streaminfo</guid>
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлены настройки стрима]]></description>
             <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/streaminfo">настройки стрима</a></p>]]></content:encoded>
@@ -83,7 +83,7 @@
         <item>
             <title><![CDATA[Ставки]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/prediction</link>
-            <guid>prediction</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/prediction</guid>
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлены ставки]]></description>
             <content:encoded><![CDATA[<p>Добавлены <a href="/modboty-docs/blog/docs/features/predictions">ставки</a></p>]]></content:encoded>
@@ -92,7 +92,7 @@
         <item>
             <title><![CDATA[Опросы]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/poll</link>
-            <guid>poll</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/poll</guid>
             <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Добавлена авторизация, добавлены опросы]]></description>
             <content:encoded><![CDATA[<p>Добавлена <a href="/modboty-docs/blog/docs/auth">авторизация</a>, добавлены <a href="/modboty-docs/blog/docs/features/polls">опросы</a></p>]]></content:encoded>
@@ -101,7 +101,7 @@
         <item>
             <title><![CDATA[Массбан]]></title>
             <link>https://relanit.github.io/modboty-docs/blog/massban</link>
-            <guid>massban</guid>
+            <guid>https://relanit.github.io/modboty-docs/blog/massban</guid>
             <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[!mb теперь может автоматически находить банфразу]]></description>
             <content:encoded><![CDATA[<p><a href="/modboty-docs/blog/docs/features/massban#%D0%B1%D0%B0%D0%BD-%D0%BF%D0%BE-%D1%84%D1%80%D0%B0%D0%B7%D0%B5">!mb</a> теперь может автоматически находить банфразу</p>]]></content:encoded>
