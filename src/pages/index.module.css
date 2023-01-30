@@ -30,3 +30,7 @@
     margin: 0 0 12px 0;
   }
 }
+
+html[data-theme=dark] {
+  --docsearch-searchbox-focus-background: #0e0e0e;
+}

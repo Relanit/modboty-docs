@@ -87,10 +87,37 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'Z31MKU62TV',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '976f9eb651c47d3e1d383199c78866d2',
+  
+        indexName: 'modboty',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        debug: false
+  
+  
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        // replaceSearchResultPathname: {
+          // from: '/docs/', // or as RegExp: /\/docs\//
+          // to: '/',
+        // },
+  
+        // Optional: Algolia search parameters
+        // searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        // searchPagePath: 'search',
+      }
     }),
-    themes: [
-      ['@easyops-cn/docusaurus-search-local', ({hashed: true, language: ["ru", "en"], searchBarShortcutHint: false, indexBlog: false})],
-    ],
+    // themes: [
+    //   ['@easyops-cn/docusaurus-search-local', ({hashed: true, language: ["ru", "en"], searchBarShortcutHint: false, indexBlog: false})],
+    // ],
 };
 
 module.exports = config;
