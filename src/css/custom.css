@@ -60,7 +60,7 @@
 
 .theme-doc-sidebar-container {
   background-color: #171717;
-  height: 100vh;
+  height: 100vmax;
 }
 
 [data-theme='dark'] .DocSearch {
