@@ -11,7 +11,7 @@ custom_edit_url: null
   <summary>Общая информация</summary>
   <ul>
     <li><b>Название:</b> link</li>
-    <li><b>Элиасы:</b> links, del, aliases, public, announce</li>
+    <li><b>Элиасы:</b> links, del, aliases, private, announce</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links.py"><b>Исходный код</b></a></li>
   </ul>
@@ -53,21 +53,21 @@ custom_edit_url: null
 ## Управление доступом
 
 ### Изменение доступа для всех команд
-`!public value`
-- `value` ‒ `on` или `off` для включения и выключения публичного доступа соответственно
+`!private value`
+- `value` ‒ `on` или `off` для включения и выключения приватного доступа соответственно
 
 :::note
 Будет изменён доступ ко всем командам, кроме тех, которым указывали приватность отдельно
 :::
 
 ### Изменение доступа для отдельных команд
-`!public name value`
+`!private name value`
 - `name` ‒ название или элиас команды
-- `value` ‒ `on` или `off` для публичного и приватного доступа соответственно
+- `value` ‒ `on` или `off` для включения и выключения приватного доступа соответственно
 
 Пример:
 
-    !public tg off
+    !private tg on
 
 ## Элиасы команд
 Дополнительные названия команд
