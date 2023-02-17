@@ -17,6 +17,10 @@ custom_edit_url: null
   </ul>
 </details>
 
+:::note
+Для работы команды требуется **[авторизация](../auth.md)**
+:::
+
 ## Создание банворда
 `!bword phrase`
 - `phrase` ‒ фраза
