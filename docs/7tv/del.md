@@ -9,9 +9,5 @@ sidebar_position: 2
 Удаление смайлов с канала.
 
 ## Использование
-`!7del names`
-- `names` ‒ названия смайлов
-
-```
-!7del pon nepon MEGALUL KNIFEDROP
-```
+`!7del <смайлы через пробел>`
+<img src={require('@site/static/examples/7tv/7del.png').default} />

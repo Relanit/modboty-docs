@@ -10,37 +10,30 @@ sidebar_position: 1
 Добавление смайлов на ваш канал.
 
 ## Использование
-`!7add name values`
-- `name` ‒ название смайла
+`!7add <название>`
+
+<img src={require('@site/static/examples/7tv/7add.png').default} />
+
+### Добавление с точным совпадением названия
+`!7add <название> exact`
+<img src={require('@site/static/examples/7tv/7add-exact.png').default} />
 
 ### Добавление с тегами
-
-    !7add ok #christmas #newyear
-
-
-### Добавление с точным совпадением названия, ключевое слово `exact`
-
-    !7add pepeMelt exact
-    !7add ok #christmas #newyear exact
-
-
-### Добавление с элиасом, ключевое слово `as элиас`
-
-    !7add PagMan as pag
+`!7add <название> <теги через пробел>`
+<img src={require('@site/static/examples/7tv/7add-tags.png').default} />
 
 ### Добавление по ссылке
+`!7add <ссылка>`
+<img src={require('@site/static/examples/7tv/7add-link.png').default} />
 
-    !7add https://7tv.app/emotes/62b76e8120f29b83b4e3a9be
- 
+### Добавление с элиасом, ключевое слово
+`!7add <название или ссылка> as <элиас>`
+<img src={require('@site/static/examples/7tv/7add-alias.png').default} />
 
-### Добавление с другого канала, ключевое слово `from название канала`
+### Добавление с другого канала
+`!7add <смайлы через пробел> from <название канала>`
+<img src={require('@site/static/examples/7tv/7add-from.png').default} />
 
-    !7add dinkDonk from lagoda1337 as dink
-    !7add dinkDonk ok pag HUH from lagoda1337
-
-
-### Добавление в набор с указанным названием, ключевое слово `to название набора`
-
-    !7add ok #christmas #newyear to new year
-    !7add ok #halloween to halloween
-    !7add dinkDonk ok pag HUH from lagoda1337 to new year
+### Добавление в набор с указанным названием
+`!7add <значения> to <название набора>`
+<img src={require('@site/static/examples/7tv/7add-to.png').default} />

@@ -8,10 +8,5 @@ sidebar_position: 5
 # Управление редакторами
 Добавление и удаление 7TV редакторов.
 
-`!7editor action login`
-- `action` ‒ `add` или `del`, для добавления и удаления редактора соответственно
-- `login` ‒ логин пользователя
-
-Пример:
-
-    !7editor add relanit
+`!7editor <add или del> <логин пользователя>`
+<img src={require('@site/static/examples/7tv/7editor.png').default} />
