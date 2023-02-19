@@ -12,12 +12,12 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/MODS.ico',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'Relanit', // Usually your GitHub org/user name.
-  // projectName: 'modboty-docs', // Usually your repo name.
+  organizationName: 'Relanit', // Usually your GitHub org/user name.
+  projectName: 'modboty-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -36,17 +36,11 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          sidebarCollapsed: false
+          editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // sidebarCollapsed: false,
+          routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -60,17 +54,10 @@ const config = {
       navbar: {
         logo: {
           className: 'logo',
-          alt: 'ModBoty Logo',
+          alt: 'ModBoty',
           src: 'img/logo1.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'install',
-            position: 'right',
-            label: 'Документация',
-          },
-          {to: '/blog', label: 'Новости', position: 'right'},
           {
             href: 'https://github.com/relanit/modboty-docs',
             className: 'header-github-link',
