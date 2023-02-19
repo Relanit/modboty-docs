@@ -19,53 +19,45 @@ custom_edit_url: null
 
 ## Управление таймерами
 
-### Создание/изменение таймера
-`!timer name delay number`
-- `name` ‒ название или элиас команды
-- `delay` ‒ интервал между отправкой команды (в минутах)
-- `number` ‒ сколько раз нужно отправить команду
-
-Пример:
-
-    Отправка двух сообщений раз в 3 минуты
-    !timer tg 3 2
+### Создание и изменение таймера
+`!timer <команда> <интервал> <кол-во сообщений>`
+<img src={require('@site/static/examples/timers/timer.png').default} />
 
 ### Удаление таймера
-`!delt name`
-- `name` ‒ название или элиас команды
+`!delt <команда>`
 
-### Включение/Выключение таймера
-`!timer name value`
-- `value` ‒ `on` или `off` для включения и выключения таймера соответственно
-
-Пример:
-
-    !timer tg off
+### Включение и выключение таймера
+`!timer <команда> <on или off>`
+<img src={require('@site/static/examples/timers/timer-off.png').default} />
 
 ### Изменение announce
-`!timer name value`
-- `value` ‒ `a` или `noa` для отправки с и без announce соответственно
+Отправка текста команды через /announce
+
+`!timer <команда> <a или noa>`
+<img src={require('@site/static/examples/timers/timer-a.png').default} />
 
 ## Просмотр таймеров
 `!timers`
+<img src={require('@site/static/examples/timers/timers.png').default} />
 
-## Режим работы таймеров
+## Режим работы в оффлайне
 
-### Режим по умолчанию 
-`!timers value`
-- `value` ‒ `online` или `always` для работы таймеров только на стриме и всегда соответственно
+### Изменение режима для отдельных таймеров
+`!timer <команда> <online или always>`
+<img src={require('@site/static/examples/timers/timer-always.png').default} />
 
-### Режим для отдельных таймеров
-`!timer name value`
-- `value` ‒ `online` или `always` для работы таймеров только на стриме и всегда соответственно
 
-Пример:
+### Изменение режима для всех таймеров
+`!timers <online или always>`
+<img src={require('@site/static/examples/timers/timers-always.png').default} /> <p></p>
 
-    !timer tg always
+:::note
+Будет изменён режим работы всех таймеров, кроме тех, которым указывали режим отдельно
+:::
 
 ## Просмотр информации о таймере
-`!help name`
-- `name` ‒ название или элиас команды
+`!help <команда>`
+<img src={require('@site/static/examples/timers/help.png').default} /> <p></p>
 
 :::info
 Также с помощью !help можно узнать информацию о любой команде бота и **[элиасах категорий](streaminfo.md#добавить-элиас)**

@@ -21,42 +21,31 @@ custom_edit_url: null
 Команда может работать нестабильно без **[авторизации](./auth.md)**
 :::
 
-## Создание банворда
-`!bword phrase`
-- `phrase` ‒ фраза
-
-## Создание мутворда
-`!mword duration phrase`
-- `duration` ‒ длительность мута в секундах
-- `phrase` ‒ фраза
-
-Пример:
-
-    !mword 600 +250 бб
-
-## Просмотр банвордов/мутвордов
-`!bwords` или `!mwords` для просмотра банвордов и мутвордов соответственно
-
 :::danger
 Не добавляйте банворды Твича
 :::
 
-## Удаление банвордов/мутвордов
-Банворды ‒ `!delb phrase`
+## Создание банворда
+`!bword <фраза>`
+<img src={require('@site/static/examples/banwords/bword.png').default} />
 
-Мутворды ‒ `!delm phrase`
+## Создание мутворда
+`!mword <длительность> <фраза>`
+<img src={require('@site/static/examples/banwords/mword.png').default} />
+
+## Просмотр банвордов/мутвордов
+`!bwords` или `!mwords` для просмотра банвордов или мутвордов
+<img src={require('@site/static/examples/banwords/bwords.png').default} />
+
+## Удаление банвордов и мутвордов
+Банворды ‒ `!delb <фраза>`
+
+Мутворды ‒ `!delm <фраза>`
+
+<img src={require('@site/static/examples/banwords/delm.png').default} />
 
 ## Банворды первых сообщений
 
 Вы можете добавлять банворды и мутворды, которые будут действовать только на пользователей, впервые написавших в чат. Команды для них пишутся также, но первым словом указывается `first`
 
-Примеры:
-
-    !bword first го в гартик
-    !mword first 600 +250 бб
-
-    !delb first го в гартик
-    !delm first +250 бб
-
-    !bwords first
-    !mwords first
+<img src={require('@site/static/examples/banwords/first.png').default} />
