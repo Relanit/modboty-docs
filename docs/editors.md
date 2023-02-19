@@ -18,13 +18,8 @@ custom_edit_url: null
 </details>
 
 ## Управление редакторами
-`!editor action login`
-- `action` ‒ `add` или `del`, для добавления и удаления редакторов соответственно
-- `login` ‒ логин пользователя
-
-Пример:
-
-    !editor add relanit
+`!editor <add или del> <ник>`
+<img src={require('@site/static/examples/editors/editor.png').default} />
 
 ## Настройка доступа
 
@@ -33,8 +28,8 @@ custom_edit_url: null
 ### Заблокировать команду
 Команда останется доступна только стримеру и редакторам бота
 
-`!bancom command`
-- `command` ‒ название или элиас команды, `all` для блокировки всех команд
+`!bancom <команда или all>`
+<img src={require('@site/static/examples/editors/bancom.png').default} /> <p></p>
 
 :::note
 При блокировке команды будет ограничен доступ и к всем её элиасам, например, при блокировке !announce будут также заблокированы !link и !links
@@ -43,5 +38,5 @@ custom_edit_url: null
 ### Разблокировать команду
 Команда станет доступна всем модераторам
 
-`!unbancom command`
-- `command` ‒ название или элиас команды, `all` для разблокировки всех команд
+`!unbancom <команда или all>`
+<img src={require('@site/static/examples/editors/unbancom.png').default} />
