@@ -12,61 +12,54 @@ sidebar_position: 3
 :::
 
 ## Минимальная длина сообщения для проверки
-`!af size value`
-- `value` ‒ длина сообщения в пискелях
+`!af size <значение>`
 
+Значение ‒ длина сообщения в пикселях
+<img src={require('@site/static/examples/antiflood/size.png').default} />
 
-    !af size 3000
 
 ## Повторяющиеся фразы в сообщении
-Чем меньше значение, тем строже будет работать бот
+`!af unique <значение или off>`
 
-`!af unique value`
-- `value` ‒ значение от 0 до 1 (0 для выключения)
-
-
-    !af unique 0.3
+Значение ‒ число от 0 до 1
+<img src={require('@site/static/examples/antiflood/unique.png').default} />
 
 ## Количество капса в сообщении
-`!af caps value`
-- `value` ‒ значение от 0 до 1 (0 для выключения)
+`!af caps <значение или off>`
 
-
-    !af caps 0.7
+Значение ‒ число от 0 до 1
+<img src={require('@site/static/examples/antiflood/caps.png').default} />
 
 ## Количество смайлов в сообщении
-`!af emotes value`
-- `value` ‒ значение от 0 до 1 (0 для выключения)
+`!af emotes <значение или off>`
 
+Значение ‒ число от 0 до 1
+<img src={require('@site/static/examples/antiflood/emotes.png').default} />
 
-    !af emotes 0.7
 
 ## Коэффициент широких смайлов
-Чем выше значение, тем сильнее бот обращает внимание на широкие смайлы
+Чем выше коэффициент, тем сильнее бот обращает внимание на широкие смайлы
 
-`!af wide value`
-- `value` ‒ значение от 1 до 2 (1 для выключения)
+`!af wide <коэффициент или off>`
 
-
-    !af wide 1.3
+Коэффициент ‒ число от 1 до 2
+<img src={require('@site/static/examples/antiflood/wide.png').default} />
 
 ## Максимальная длина ссылок
 Если длина ссылок в сообщении превышает указанное значение, бот его удалит
 
-`!af links value`
-- `value` ‒ значение от 1500 (0 для выключения)
+`!af links <значение или off>`
 
-
-    !af links 2500
+Значение ‒ длина ссылок в пикселях
+<img src={require('@site/static/examples/antiflood/links.png').default} />
 
 ## Средняя длина слова
 Бот замутит пользователя, если средняя длина слова в его сообщениях превышает указанное число
 
-`!af word value`
-- `value` ‒ длина слова в пикселях
+`!af word <значение>`
 
-
-    !af word 400
+Значение ‒ длина слова в пикселях
+<img src={require('@site/static/examples/antiflood/word.png').default} />
 
 ## Окна сообщений
 Окна нужны для проверки предыдущих сообщений пользователя
@@ -74,54 +67,44 @@ sidebar_position: 3
 ### Минимальный размер предыдущих сообщений пользователя в процентах
 Бот не будет мутить за предыдущие сообщения, пока они занимают меньше указанного процента от размера остальных сообщений
 
-`!af percent value`
-- `value` ‒ число от 0 до 100
+`!af percent <значение или off>`
 
-
-    !af percent 30
+Значение ‒ число от 0 до 100
+<img src={require('@site/static/examples/antiflood/percent.png').default} />
 
 ### Время основого окна
 Сколько секунд бот будет помнить предыдущие сообщения
 
-`!af main time value`
-- `value` ‒ время в секундах
+`!af main time <время в секундах>`
 
-
-    !af main time 12
+<img src={require('@site/static/examples/antiflood/main-time.png').default} />
 
 ### Минимальная длина предыдущих сообщений пользователя для проверки
-`!af main size value`
-- `value` ‒ длина сообщений в пикселях
+`!af main size <значение>`
 
-
-    !af main size 3500
+Значение ‒ длина сообщений в пикселях
+<img src={require('@site/static/examples/antiflood/main-size.png').default} />
 
 ### Ограничение количества отправленных сообщений для пользователя
 Пользователь получит мут, если отправит больше сообщений, чем указано, за время основного окна
 
-`!af main messages value`
-- `value` ‒ количество сообщений
+`!af main messages <кол-во сообщений>`
+<img src={require('@site/static/examples/antiflood/main-messages.png').default} />
 
-
-    !af main messages 7
 
 ### Второе окно
 Пользователь получит мут, если отправит больше сообщений, чем указано, за время окна
 
-`!af seсond messages value1 time value2`
-- `value1` ‒ количество сообщений
-- `value2` ‒ время в секундах
+`!af seсond messages <кол-во сообщений> time <время в секундах>`
+<img src={require('@site/static/examples/antiflood/second.png').default} />
 
 
-    !af seсond messages 4 time 2.5
-
-Удаление второго окна
-
-
-    !af seсond del
+#### Удаление второго окна
+`!af seсond del`
 
 
 ## Сброс настроек
 Сброс настроек установленного режима
 
 `!af reset`
+<img src={require('@site/static/examples/antiflood/reset.png').default} />

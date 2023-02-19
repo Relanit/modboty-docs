@@ -8,5 +8,5 @@ sidebar_position: 5
 # Управление редакторами
 Добавление и удаление 7TV редакторов.
 
-`!7editor <add или del> <логин пользователя>`
+`!7editor <add или del> <ник>`
 <img src={require('@site/static/examples/7tv/7editor.png').default} />

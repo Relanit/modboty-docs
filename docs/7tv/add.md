@@ -31,7 +31,7 @@ sidebar_position: 1
 <img src={require('@site/static/examples/7tv/7add-alias.png').default} />
 
 ### Добавление с другого канала
-`!7add <смайлы через пробел> from <название канала>`
+`!7add <смайлы через пробел> from <ник>`
 <img src={require('@site/static/examples/7tv/7add-from.png').default} />
 
 ### Добавление в набор с указанным названием

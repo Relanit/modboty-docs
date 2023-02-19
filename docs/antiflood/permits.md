@@ -7,21 +7,20 @@ sidebar_position: 2
 # Разрешения
 Бот не будет реагировать на пользователя в течение указанного времени
 
-`!allow user time`
-- `user` ‒ ник пользователя
-- `time` ‒ время в секундах (по умолчанию 180)
+`!allow <ник> <*время>`
 
-
-    !allow relanit 300
+*Необязательно, по умолчанию 180
+<img src={require('@site/static/examples/antiflood/allow-user.png').default} />
 
 ## Отмена разрешения
-`!disallow user`
-
-
-    !disallow relanit
+`!disallow <ник>`
+<img src={require('@site/static/examples/antiflood/disallow-user.png').default} />
 
 ## Приостановка работы антифлуда
-`!allow time`
-- `time` ‒ время в секундах (по умолчанию 180)
+`!allow <*время>`
+
+*Необязательно, по умолчанию 180
+<img src={require('@site/static/examples/antiflood/allow-all.png').default} />
+
 
 Возобновление работы ‒ `!disallow`

@@ -6,14 +6,15 @@ sidebar_position: 1
 
 # Быстрая настройка
 
-## Включение/выключение
-`!af value`
-- `value` ‒ `on` или `off` для включения или выключения
+## Включение и выключение
+`!af <on или off>`
+<img src={require('@site/static/examples/antiflood/af-on.png').default} />
 
 ## Строгость работы
 
-`!af mode value`
-- `value` ‒ один из режимов:
+`!af mode <режим>`
+
+Доступные режимы:
 
  `1` ‒ мягкий режим, будет мутить только большие сообщения
 
@@ -21,29 +22,26 @@ sidebar_position: 1
 
  `3` ‒ строгий режим, будет мутить даже относительно короткие сообщения
 
-Пример:
-
-    !af mode 1
+<img src={require('@site/static/examples/antiflood/af-mode.png').default} />
 
 ## Изменение таймаутов
 
-`!timeouts time time time`
-- `time` ‒ длительность мутов через пробел
+`!timeouts <длительность мутов через пробел>`
+<img src={require('@site/static/examples/antiflood/timeouts.png').default} />
 
+### Время сброса таймаутов
+Если пользователь не получает мут в течение указанного времени (по умолчанию 900), его муты сбрасываются.
 
-    !timeouts 30 180 300
-
-### Кд таймаутов
-Если пользователь не получает мут в течение указанного времени (по умолчанию 900), его муты сбрасываются
-
-    !timeouts cd 1800
+<img src={require('@site/static/examples/antiflood/timeouts-cd.png').default} />
 
 ## Режим работы в оффлайне
-По умолчанию антифлуд работает только на стриме
+По умолчанию антифлуд работает только на стриме.
 
-`!af value`
-- `value` - `online` или `always` для работы на стриме или всегда соответственно
+`!af <online или always>`
+<img src={require('@site/static/examples/antiflood/af-offline.png').default} />
+
 
 ## Просмотр настроек
 
 `!af`
+<img src={require('@site/static/examples/antiflood/af.png').default} />
