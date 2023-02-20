@@ -20,5 +20,8 @@ custom_edit_url: null
 </details>
 
 ## Включение автообновления
-`!refreshchat value`
-- `value` ‒ `on` или `off` для включения или выключения соответственно
+`!refreshchat <on или off>`
+<img src={require('@site/static/examples/refreshchat/refreshchat.png').default} /> <p></p>
+
+:::note
+У jChat есть кд на обновление в одну минуту, поэтому бот может не сразу отправлять команду.

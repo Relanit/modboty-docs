@@ -14,7 +14,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> unbanall</li>
     <li><b>Элиасы:</b> отсутствуют</li>
-    <li><b>Кулдаун:</b> 1 месяц</li>
+    <li><b>Кулдаун:</b> общий 5 секунд</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/unbanall.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
@@ -25,10 +25,7 @@ custom_edit_url: null
 
 ## Запуск разбана
 `!unbanall`
+<img src={require('@site/static/examples/unbanall/unbanall.png').default} />
 
 ## Отмена разбана
 `!stop`
-
-:::note 
-При отмене разбана в следующий раз вы сможете запустить команду только через месяц
-:::

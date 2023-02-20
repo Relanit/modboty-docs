@@ -17,6 +17,6 @@ sidebar_position: 18
   </ul>
 </details>
 
-## Вызов команды
-`!report text`
-- `text` ‒ текст сообщения
+## Использование
+`!suggest <текст>`
+<img src={require('@site/static/examples/suggest/suggest.png').default} />
