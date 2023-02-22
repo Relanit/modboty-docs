@@ -1,5 +1,5 @@
 ---
-id: manual_setup
+id: manual-setup
 custom_edit_url: null
 sidebar_position: 3
 ---
