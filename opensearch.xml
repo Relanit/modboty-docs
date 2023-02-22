@@ -4,8 +4,8 @@
   <ShortName>ModBoty</ShortName>
   <Description>Search ModBoty</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://relanit.github.io/modboty-docs/img/MODS.ico</Image>
-  <Url type="text/html" method="get" template="https://relanit.github.io/modboty-docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://relanit.github.io/modboty-docs/opensearch.xml" />
-  <moz:SearchForm>https://relanit.github.io/modboty-docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://relanit.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://relanit.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://relanit.github.io/opensearch.xml" />
+  <moz:SearchForm>https://relanit.github.io/</moz:SearchForm>
 </OpenSearchDescription>
