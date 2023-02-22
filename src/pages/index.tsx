@@ -38,7 +38,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Упростите работу модераторов`}
-      description="Description will go into a meta tag in <head />">
+      description="Модераторский бот для Twitch">
       <HomepageHeader />
       <main>
         <div className={styles.test}>
