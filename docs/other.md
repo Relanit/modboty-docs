@@ -13,11 +13,11 @@ sidebar_position: 17
 `!help <команда>` ‒ описание команды
 
 <img src={require('@site/static/examples/commands/help.png').default} />
-<img src={require('@site/static/examples/streaminfo/help.png').default} />
+<img src={require('@site/static/examples/stream-info/help.png').default} />
 <img src={require('@site/static/examples/other/help.png').default} />
 
 :::info
-С помощью !help можно узнать информацию о любой команде бота, **[элиасах категорий](streaminfo.md#добавить-элиас-категорий)**, а также о **[кастомных командах](commands.md)** , их элиасах и таймерах
+С помощью !help можно узнать информацию о любой команде бота, **[элиасах категорий](stream-info.md#добавить-элиас-категорий)**, а также о **[кастомных командах](commands.md)** , их элиасах и таймерах
 :::
 
 ## Спам текстом

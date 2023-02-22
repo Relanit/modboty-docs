@@ -60,5 +60,5 @@ custom_edit_url: null
 <img src={require('@site/static/examples/timers/help.png').default} /> <p></p>
 
 :::info
-Также с помощью !help можно узнать информацию о любой команде бота и **[элиасах категорий](streaminfo.md#добавить-элиас)**
+Также с помощью !help можно узнать информацию о любой команде бота и **[элиасах категорий](stream-info.md#добавить-элиас)**
 :::
