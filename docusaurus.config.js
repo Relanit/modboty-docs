@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ModBoty',
-  tagline: 'Упростите работу модераторов',
+  tagline: 'Добро пожаловать на страницу документации',
   url: 'https://docs.modbot.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
