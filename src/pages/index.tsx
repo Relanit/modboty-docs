@@ -47,7 +47,7 @@ export default function Home(): JSX.Element {
                 <ul>
                     <li><Link to="commands">Команды</Link></li>
                     <li><Link to="timers">Таймеры</Link></li>
-                    <li><Link to="banwords">Банворды и мутворды</Link></li>
+                    <li><Link to="banwords">Банворды</Link></li>
                     <li><Link to="massban">Массбан</Link></li>
                     <li><Link to="7TV">7TV</Link></li>
                     <li><Link to="antiflood">Антифлуд</Link></li>
