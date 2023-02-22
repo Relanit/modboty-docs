@@ -12,7 +12,7 @@ custom_edit_url: null
 <details>
   <summary>Общая информация</summary>
   <ul>
-    <li><b>Название:</b> refreshchat</li>
+    <li><b>Название:</b> refresh-chat</li>
     <li><b>Элиасы:</b> отсутствуют</li>
     <li><b>Кулдаун:</b> общий 5 секунд</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/refresh_overlay.py"><b>Исходный код</b></a></li>
@@ -20,8 +20,8 @@ custom_edit_url: null
 </details>
 
 ## Включение автообновления
-`!refreshchat <on или off>`
-<img src={require('@site/static/examples/refreshchat/refreshchat.png').default} /> <p></p>
+`!refresh-chat <on или off>`
+<img src={require('@site/static/examples/refresh-chat/refresh-chat.png').default} /> <p></p>
 
 :::note
 У jChat есть кд на обновление в одну минуту, поэтому бот может не сразу отправлять команду.
