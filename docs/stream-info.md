@@ -23,15 +23,15 @@ custom_edit_url: null
 
 ## Изменение заголовка
 `!t <заголовок>`
-<img src={require('@site/static/examples/streaminfo/t.png').default} />
+<img src={require('@site/static/examples/stream-info/t.png').default} />
 
 ## Изменение категории
 `!g <название категории>`
-<img src={require('@site/static/examples/streaminfo/g.png').default} />
+<img src={require('@site/static/examples/stream-info/g.png').default} />
 
 ### Добавить элиас категории
 `!addg <элиас> <название категории>`
-<img src={require('@site/static/examples/streaminfo/addg.png').default} />
+<img src={require('@site/static/examples/stream-info/addg.png').default} />
 
 
 ### Удалить элиас
@@ -39,11 +39,11 @@ custom_edit_url: null
 
 ### Просмотр элиасов
 `!games`
-<img src={require('@site/static/examples/streaminfo/games.png').default} />
+<img src={require('@site/static/examples/stream-info/games.png').default} />
 
 ### Просмотр информации об элиасах
 `!help <название или элиас>`
-<img src={require('@site/static/examples/streaminfo/help.png').default} /> <p></p>
+<img src={require('@site/static/examples/stream-info/help.png').default} /> <p></p>
 
 :::info
 Также с помощью !help можно узнать информацию о любых командах бота и **[кастомных командах](commands.md)**
