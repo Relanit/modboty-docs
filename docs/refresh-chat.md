@@ -20,7 +20,7 @@ custom_edit_url: null
 </details>
 
 ## Включение автообновления
-`!refresh-chat <on или off>`
+`!refreshchat <on или off>`
 <img src={require('@site/static/examples/refresh-chat/refresh-chat.png').default} /> <p></p>
 
 :::note
