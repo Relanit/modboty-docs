@@ -57,7 +57,7 @@ export default function Home(): JSX.Element {
                     <li><Link to="stream-info">Настройки стрима</Link></li>
                     <li><Link to="editors">Редакторы бота</Link></li>
                     <li><Link to="refresh-chat">Автообновление оверлея jChat</Link></li>
-                    <li><Link to="unbanall">Разбан всех пользователей</Link></li>
+                    <li><Link to="unban-all">Разбан всех пользователей</Link></li>
                     <li><Link to="oldboty-import">Импорт команд OldBoty</Link></li>
                 </ul>
             </div>

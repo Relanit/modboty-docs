@@ -23,7 +23,3 @@ custom_edit_url: null
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/antiflood.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
-
-:::note 
-Для работы команды требуется **[авторизация](../auth.md)** 
-:::
