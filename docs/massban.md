@@ -12,7 +12,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> mb</li>
     <li><b>Элиасы:</b> mt, m</li>
-    <li><b>Кулдаун:</b> общий 60 секунд</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/massban.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
@@ -35,6 +35,12 @@ custom_edit_url: null
 `!m <*длительность> <фраза>`
 
 *Необязательно, длительность по умолчанию ‒ 300
+
+## Бан новых пользователей
+Забанит до 30 последних новых пользователей и всех новых
+
+`!mbf`
+<img src={require('@site/static/examples/massban/mbf.png').default} />
 
 ## Остановить массовый бан и мут
 `!stop`

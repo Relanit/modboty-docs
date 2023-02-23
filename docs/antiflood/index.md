@@ -19,7 +19,7 @@ custom_edit_url: null
   <ul>
     <li><b>Название:</b> antiflood</li>
     <li><b>Элиасы:</b> af, timeouts, allow, disallow</li>
-    <li><b>Кулдаун:</b> общий 5 секунд</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/antiflood.py"><b>Исходный код</b></a></li>
   </ul>
 </details>

@@ -26,7 +26,7 @@ sidebar_position: 1
 `!7add <ссылка>`
 <img src={require('@site/static/examples/7tv/7add-link.png').default} />
 
-### Добавление с элиасом, ключевое слово
+### Добавление с элиасом
 `!7add <название или ссылка> as <элиас>`
 <img src={require('@site/static/examples/7tv/7add-alias.png').default} />
 

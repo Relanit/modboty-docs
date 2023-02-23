@@ -12,7 +12,7 @@ sidebar_position: 18
   <ul>
     <li><b>Название:</b> suggest</li>
     <li><b>Элиасы:</b> отсутствуют</li>
-    <li><b>Кулдаун:</b> общий 10 секунд</li>
+    <li><b>Кулдаун:</b> общий 5 секунд</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/suggest.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
