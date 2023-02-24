@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ModBoty',
   tagline: 'Добро пожаловать на страницу документации',
-  url: 'https://docs.modbot.xyz',
-  baseUrl: '/',
+  url: 'https://relanit.github.io',
+  baseUrl: '/modboty-docs/'
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
