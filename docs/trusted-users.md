@@ -27,7 +27,11 @@ custom_edit_url: null
 
 ## Настройка команд для доверенных пользователей
 `!trustcmd <add или del> <команда>`
-<img src={require('@site/static/examples/trusted-users/trustcmd.png').default} />
+<img src={require('@site/static/examples/trusted-users/trustcmd.png').default} /> <p></p>
+
+:::note
+При добавлении команды, добавятся и все её элиасы, например, при добавлении !m, также добавятся !mb и !mbf 
+:::
 
 ## Просмотр команд для доверенных пользователей
 `!trustcmds`
