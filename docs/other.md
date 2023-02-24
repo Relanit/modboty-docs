@@ -1,6 +1,6 @@
 ---
 custom_edit_url: null
-sidebar_position: 17
+sidebar_position: 18
 ---
 
 # Дополнительные функции
