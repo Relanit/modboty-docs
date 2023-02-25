@@ -17,6 +17,10 @@ custom_edit_url: null
   </ul>
 </details>
 
+:::note
+Редакторы не могут вызывать команды без модерки
+:::
+
 ## Управление редакторами
 `!editor <add или del> <ник>`
 <img src={require('@site/static/examples/editors/editor.png').default} />
