@@ -24,5 +24,11 @@ sidebar_position: 18
 `!spam <число> <текст>`
 <img src={require('@site/static/examples/other/spam.png').default} />
 
+## Бан
+`!ban <ник>`
+
+## Мут
+`!mute <ник> <длительность в секундах>`
+
 ## Проверка бота
 `!ping`

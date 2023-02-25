@@ -37,7 +37,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Упростите работу модераторов`}
+      title={`Документация`}
       description="Модераторский бот для Twitch">
       <HomepageHeader />
       <main>
