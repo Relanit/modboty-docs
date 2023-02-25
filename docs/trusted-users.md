@@ -5,7 +5,7 @@ custom_edit_url: null
 
 # Доверенные пользователи
 
-Настройка доверенных пользователей, которым разрешено вызывать команды бота без модерки. 
+Настройка доверенных пользователей, которым разрешено вызывать команды бота без модерки.
 
 <details>
   <summary>Общая информация</summary>
@@ -18,6 +18,8 @@ custom_edit_url: null
 </details>
 
 ## Управление доверенными пользователями
+Доверенных пользователей могут назначать [редакторы бота](./editors.md) и стримеры. 
+
 `!trust <add или del> <ник>`
 <img src={require('@site/static/examples/trusted-users/trust.png').default} />
 
@@ -26,6 +28,8 @@ custom_edit_url: null
 <img src={require('@site/static/examples/trusted-users/trusts.png').default} />
 
 ## Настройка команд для доверенных пользователей
+Эту команду могут вызывать только стримеры.
+
 `!trustcmd <add или del> <команда>`
 <img src={require('@site/static/examples/trusted-users/trustcmd.png').default} /> <p></p>
 
