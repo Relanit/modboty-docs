@@ -44,3 +44,7 @@ custom_edit_url: null
 
 `!unbancmd <команда или all>`
 <img src={require('@site/static/examples/editors/unbancmd.png').default} />
+
+## Просмотр команд для редакторов
+`!editorcmds`
+<img src={require('@site/static/examples/editors/editorcmds.png').default} />
