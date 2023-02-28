@@ -12,6 +12,10 @@ sidebar_position: 4
 `!7set`
 <img src={require('@site/static/examples/7tv/7set.png').default} />
 
+### Просмотр наборов
+`!7sets`
+<img src={require('@site/static/examples/7tv/7sets.png').default} />
+
 ### Переключение активного набора
 `!7set <название набора>`
 <img src={require('@site/static/examples/7tv/7set-switch.png').default} />
