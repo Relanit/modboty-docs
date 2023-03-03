@@ -35,6 +35,9 @@ export function CheckboxList({items, color}) {
   </ul>
 </details>
 
-:::note Команда требует следующих разрешений
+:::note Боту необходима редакторка 7TV со следующими разрешениями
 <CheckboxList color="fdfdfe" items={['Modify Emotes', 'Use Private Emotes', 'Manage Emote Sets', 'Manage Editors']} />
+:::
+
+:::note Команды могут вызывать только редакторы 7TV
 :::
