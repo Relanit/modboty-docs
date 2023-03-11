@@ -26,16 +26,16 @@ custom_edit_url: null
 ## Вызов команд
 <img src={require('@site/static/examples/commands/call.png').default} />
 
-
-## Удаление команд
-`!del <название или элиас>`
-<img src={require('@site/static/examples/commands/del.png').default} />
-
 ## Элиасы команд
 Дополнительные названия для команд.
 
 `!alias <команда> <add или del> <элиасы через пробел>`
 <img src={require('@site/static/examples/commands/alias.png').default} />
+
+
+## Удаление команд
+`!del <название или элиас>`
+<img src={require('@site/static/examples/commands/del.png').default} />
 
 
 ## Просмотр команд
