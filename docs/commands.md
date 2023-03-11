@@ -31,6 +31,12 @@ custom_edit_url: null
 `!del <название или элиас>`
 <img src={require('@site/static/examples/commands/del.png').default} />
 
+## Элиасы команд
+Дополнительные названия для команд.
+
+`!alias <команда> <add или del> <элиасы через пробел>`
+<img src={require('@site/static/examples/commands/alias.png').default} />
+
 
 ## Просмотр команд
 `!links <public или private>`
@@ -50,14 +56,6 @@ custom_edit_url: null
 :::note
 Будет изменён доступ ко всем командам, кроме тех, которым указывали приватность отдельно
 :::
-
-
-## Элиасы команд
-Дополнительные названия для команд.
-
-`!alias <команда> <add или del> <элиасы через пробел>`
-<img src={require('@site/static/examples/commands/alias.png').default} />
-
 
 ## Управление announce
 Отправка команд через /announce
