@@ -40,12 +40,9 @@ custom_edit_url: null
 `!timer <команда> <online или always>`
 <img src={require('@site/static/examples/timers/timer-always.png').default} />
 
-## Просмотр таймеров
-`!timers`
-<img src={require('@site/static/examples/timers/timers.png').default} />
-
+## Просмотр таймеров 
 `!timers <online или always>`
-<img src={require('@site/static/examples/timers/timers-always.png').default} />
+<img src={require('@site/static/examples/timers/timers.png').default} />
 
 ## Просмотр информации о таймере
 `!help <команда>`
