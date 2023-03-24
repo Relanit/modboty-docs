@@ -36,24 +36,16 @@ custom_edit_url: null
 `!timer <команда> <a или noa>`
 <img src={require('@site/static/examples/timers/timer-a.png').default} />
 
+## Изменение режима работы таймера
+`!timer <команда> <online или always>`
+<img src={require('@site/static/examples/timers/timer-always.png').default} />
+
 ## Просмотр таймеров
 `!timers`
 <img src={require('@site/static/examples/timers/timers.png').default} />
 
-## Режим работы в оффлайне
-
-### Изменение режима для отдельных таймеров
-`!timer <команда> <online или always>`
-<img src={require('@site/static/examples/timers/timer-always.png').default} />
-
-
-### Изменение режима для всех таймеров
 `!timers <online или always>`
-<img src={require('@site/static/examples/timers/timers-always.png').default} /> <p></p>
-
-:::note
-Будет изменён режим работы всех таймеров, кроме тех, которым указывали режим отдельно
-:::
+<img src={require('@site/static/examples/timers/timers-always.png').default} />
 
 ## Просмотр информации о таймере
 `!help <команда>`
