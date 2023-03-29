@@ -32,7 +32,7 @@ sidebar_position: 1
 <img src={require('@site/static/examples/commands/variables/randint.png').default} />
 
 ## {pick}
-При вызове команды переменная заменится на один из указанных вариантов, варианты перечисляются через `/`
+При вызове команды переменная заменится на один из указанных вариантов, варианты перечисляются через `|`
 <img src={require('@site/static/examples/commands/variables/pick.png').default} />
 
 Также можно указывать другие переменные в вариантах, кроме другого `{pick}`
