@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+id: index
+slug: /commands
 custom_edit_url: null
 ---
 

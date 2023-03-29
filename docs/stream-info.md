@@ -46,5 +46,5 @@ custom_edit_url: null
 <img src={require('@site/static/examples/stream-info/help.png').default} /> <p></p>
 
 :::info
-Также с помощью !help можно узнать информацию о любых командах бота и **[кастомных командах](commands.md)**
+Также с помощью !help можно узнать информацию о любых командах бота и **[кастомных командах](commands/index.md)**
 :::
