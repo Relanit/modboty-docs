@@ -14,7 +14,7 @@ custom_edit_url: null
     <li><b>Название:</b> link</li>
     <li><b>Элиасы:</b> links, del, aliases, private, announce</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links.py"><b>Исходный код</b></a></li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links/links.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
@@ -57,6 +57,12 @@ custom_edit_url: null
 :::note
 Будет изменён доступ ко всем командам, кроме тех, которым указывали приватность отдельно
 :::
+
+## Режим работы в оффлайне
+Команда будет работать только в оффлайне.
+
+`!offline <команда> <on или off>`
+<img src={require('@site/static/examples/commands/offline.png').default} />
 
 ## Управление announce
 Отправка команд через /announce

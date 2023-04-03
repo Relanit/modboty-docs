@@ -31,7 +31,7 @@ export function CheckboxList({items, color}) {
     <li><b>Название:</b> 7add</li>
     <li><b>Элиасы:</b> 7del, 7alias, 7editor, 7set, 7origin</li>
     <li><b>Кулдаун:</b> общий 5 секунд</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/seven_tv.py"><b>Исходный код</b></a></li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/seven_tv/seven_tv.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
