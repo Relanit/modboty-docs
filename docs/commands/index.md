@@ -59,7 +59,7 @@ custom_edit_url: null
 :::
 
 ## Режим работы в оффлайне
-Команда будет работать только в оффлайне.
+Команда будет работать только в оффлайне
 
 `!offline <команда> <on или off>`
 <img src={require('@site/static/examples/commands/offline.png').default} />
