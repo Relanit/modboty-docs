@@ -33,6 +33,10 @@ custom_edit_url: null
 `!bwords` или `!mwords` для просмотра банвордов или мутвордов
 <img src={require('@site/static/examples/banwords/bwords.png').default} />
 
+:::note
+Если вам не приходит сообщение, попробуйте написать боту в лс
+:::
+
 ## Удаление банвордов и мутвордов
 Банворды ‒ `!delb <фраза>`
 

@@ -45,3 +45,7 @@ sidebar_position: 1
 
 `!af`
 <img src={require('@site/static/examples/antiflood/af.png').default} />
+
+:::note
+Если вам не приходит сообщение, попробуйте написать боту в лс
+:::
