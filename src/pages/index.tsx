@@ -42,27 +42,28 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <div className={styles.test}>
-            <div>
-                <h1>Список команд:</h1>
-                <ul>
-                    <li><Link to="commands">Команды</Link></li>
-                    <li><Link to="timers">Таймеры</Link></li>
-                    <li><Link to="banwords">Банворды</Link></li>
-                    <li><Link to="massban">Массбан</Link></li>
-                    <li><Link to="7TV">7TV</Link></li>
-                    <li><Link to="antiflood">Антифлуд</Link></li>
-                    <li><Link to="vips">Управление випами</Link></li>
-                    <li><Link to="polls">Опросы</Link></li>
-                    <li><Link to="predictions">Ставки</Link></li>
-                    <li><Link to="stream-info">Настройки стрима</Link></li>
-                    <li><Link to="editors">Редакторы бота</Link></li>
-                    <li><Link to="trusted-users">Доверенные пользователи</Link></li>
-                    <li><Link to="refresh-chat">Автообновление оверлея jChat</Link></li>
-                    <li><Link to="unban-all">Разбан всех пользователей</Link></li>
-                    <li><Link to="oldboty-import">Импорт команд OldBoty</Link></li>
-                    <li><Link to="other">Прочие команды</Link></li>
-                </ul>
-            </div>
+          <div>
+            <h1>Список команд:</h1>
+            <ul>
+              <li><Link to="commands">Команды</Link></li>
+              <li><Link to="timers">Таймеры</Link></li>
+              <li><Link to="banwords">Банворды</Link></li>
+              <li><Link to="massban">Массбан</Link></li>
+              <li><Link to="global_ban">Глобальный бан</Link></li>
+              <li><Link to="7TV">7TV</Link></li>
+              <li><Link to="antiflood">Антифлуд</Link></li>
+              <li><Link to="vips">Управление випами</Link></li>
+              <li><Link to="polls">Опросы</Link></li>
+              <li><Link to="predictions">Ставки</Link></li>
+              <li><Link to="stream-info">Настройки стрима</Link></li>
+              <li><Link to="editors">Редакторы бота</Link></li>
+              <li><Link to="trusted-users">Доверенные пользователи</Link></li>
+              <li><Link to="refresh-chat">Автообновление оверлея jChat</Link></li>
+              <li><Link to="unban-all">Разбан всех пользователей</Link></li>
+              <li><Link to="oldboty-import">Импорт команд OldBoty</Link></li>
+              <li><Link to="other">Прочие команды</Link></li>
+            </ul>
+          </div>
         </div>
       </main>
     </Layout>

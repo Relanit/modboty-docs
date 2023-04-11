@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 15
 custom_edit_url: null
 ---
 
@@ -28,13 +28,12 @@ custom_edit_url: null
 <img src={require('@site/static/examples/trusted-users/trusts.png').default} />
 
 ## Настройка команд для доверенных пользователей
-Эту команду могут вызывать только стримеры.
 
 `!trustcmd <add или del> <команда>`
 <img src={require('@site/static/examples/trusted-users/trustcmd.png').default} /> <p></p>
 
 :::note
-При добавлении команды, добавятся и все её элиасы, например, при добавлении !m, также добавятся !mb и !mbf 
+При добавлении команды, добавятся и все её элиасы, например, при добавлении !links, также добавятся !link и !del 
 :::
 
 ## Просмотр команд для доверенных пользователей

@@ -1,11 +1,15 @@
 ---
 custom_edit_url: null
-sidebar_position: 19
+sidebar_position: 20
 ---
 
 # Сообщить об идее или баге
 
 Сообщить об идее или найденном баге.
+
+:::note
+На данный момент, эта команда отключена
+:::
 
 <details>
   <summary>Общая информация</summary>
