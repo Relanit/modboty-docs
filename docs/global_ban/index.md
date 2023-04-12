@@ -7,6 +7,16 @@ custom_edit_url: null
 # Глобальный бан
 Блокировка пользователей на всех каналах с включённым глобальным баном.
 
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> gb</li>
+    <li><b>Элиасы:</b> requests, recents, gbmods, gbmod, approve, disapprove </li>
+    <li><b>Кулдаун:</b> общий 5 секунд</li>
+    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/global_ban.py"><b>Исходный код</b></a></li>
+  </ul>
+</details>
+
 ## Включение и выключение
 `!gb <on или off>`
 <img src={require('@site/static/examples/global_ban/gb_on_off.png').default} />
