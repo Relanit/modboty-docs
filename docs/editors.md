@@ -11,8 +11,8 @@ custom_edit_url: null
   <summary>Общая информация</summary>
   <ul>
     <li><b>Название:</b> editor</li>
-    <li><b>Элиасы:</b> bancmd, unbancmd</li>
-    <li><b>Кулдаун:</b> общий 5 секунд</li>
+    <li><b>Элиасы:</b> editorcmd, editorcmds</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/editors.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
