@@ -7,6 +7,9 @@ custom_edit_url: null
 
 # Обновления
 
+## 27.04.2023
+Добавлены [переменные команд](commands/variables.md) `{channel}`, `{countdown}`, `{followcount}`, `{subcount}`, исправлены баги
+
 ## 12.04.2023
 Добавлен [Глобальный бан](global_ban/index.md)
 
