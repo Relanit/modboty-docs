@@ -12,7 +12,7 @@ custom_edit_url: null
   <summary>Общая информация</summary>
   <ul>
     <li><b>Название:</b> link</li>
-    <li><b>Элиасы:</b> links, del, aliases, private, announce</li>
+    <li><b>Элиасы:</b> links, del, aliases, private, announce, offline</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links/links.py"><b>Исходный код</b></a></li>
   </ul>
@@ -40,7 +40,7 @@ custom_edit_url: null
 
 
 ## Просмотр команд
-`!links <public или private>`
+`!links <public или private или offline или always>`
 <img src={require('@site/static/examples/commands/links.png').default} />
 
 
