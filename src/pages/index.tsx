@@ -60,7 +60,6 @@ export default function Home(): JSX.Element {
               <li><Link to="trusted-users">Доверенные пользователи</Link></li>
               <li><Link to="refresh-chat">Автообновление оверлея jChat</Link></li>
               <li><Link to="unban-all">Разбан всех пользователей</Link></li>
-              <li><Link to="oldboty-import">Импорт команд OldBoty</Link></li>
               <li><Link to="other">Прочие команды</Link></li>
             </ul>
           </div>
