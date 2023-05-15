@@ -1,11 +1,12 @@
 ---
-sidebar_position: 18
+id: oldboty_import
 custom_edit_url: null
+sidebar_position: 2
 ---
 
-# Импорт команд OldBoty
+# Перенос команд из OldBoty
 
-Импорт и удаление команд из OldBoty.
+Перенос и удаление команд из OldBoty.
 
 <details>
   <summary>Общая информация</summary>
@@ -18,8 +19,8 @@ custom_edit_url: null
 </details>
 
 
-## Импорт команд
+## Перенос команд
 `!oldimport`
 
-## Удаление команд из OldBoty после импорта
+## Удаление команд из OldBoty после переноса
 `!olddel`
