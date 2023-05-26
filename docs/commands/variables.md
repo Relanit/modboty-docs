@@ -34,6 +34,12 @@ sidebar_position: 1
 Для указания часового пояса необходимо приписать к времени смещение от UTC (для Москвы это +03:00)
 <img src={require('@site/static/examples/commands/variables/countdown.png').default} />
 
+## {emote}
+Использование: `{emote название_канала}`
+
+При вызове заменится на рандомный смайл с текущего канала или указанного.
+<img src={require('@site/static/examples/commands/variables/emote.png').default} />
+
 ## {followage}
 Использование: `{followage ник_пользователя ник_стримера}`
 
@@ -43,6 +49,12 @@ sidebar_position: 1
 ## {followcount}
 При вызове заменится на количество фолловеров канала, на котором вызывается команда.
 <img src={require('@site/static/examples/commands/variables/followcount.png').default} />
+
+## {math}
+Использование: `{math математическое выражение}`
+
+При вызове заменится на результат выражения.
+<img src={require('@site/static/examples/commands/variables/math.png').default} />
 
 ## {pick}
 При вызове команды переменная заменится на один из указанных вариантов, варианты перечисляются через `|`
