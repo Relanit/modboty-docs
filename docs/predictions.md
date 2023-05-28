@@ -11,7 +11,7 @@ custom_edit_url: null
   <summary>Общая информация</summary>
   <ul>
     <li><b>Название:</b> pred</li>
-    <li><b>Элиасы:</b> endpred, delpred, lockpred, reppred</li>
+    <li><b>Элиасы:</b> endpred, delpred, lockpred, repred</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
     <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/predictions.py"><b>Исходный код</b></a></li>
   </ul>
@@ -43,6 +43,6 @@ Twitch не создаст ставку, содержащую мат
 `!lockpred` 
 
 ## Повтор предыдущей ставки
-`!reppred <*длительность>`
+`!repred <*длительность>`
 
 *Необязательно, длительность по умолчанию как у прошлой ставки
