@@ -15,3 +15,7 @@ sidebar_position: 6
 ## Копирование набора по ссылке
 `!7copy <ссылка копируемого набора> to <принимающий набор>`
 <img src={require('@site/static/examples/7tv/7copy-link.png').default} />
+
+:::note
+Для остановки копирования смайлов, напишите `!stop`. Вызывать команду 7copy можно раз в час.
+:::
