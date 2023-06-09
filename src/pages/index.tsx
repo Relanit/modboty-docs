@@ -55,7 +55,7 @@ export default function Home(): JSX.Element {
               <li><Link to="vips">Управление випами</Link></li>
               <li><Link to="polls">Опросы</Link></li>
               <li><Link to="predictions">Ставки</Link></li>
-              <li><Link to="stream-info">Настройки стрима</Link></li>
+              <li><Link to="stream-info">Название и категория стрима</Link></li>
               <li><Link to="editors">Редакторы бота</Link></li>
               <li><Link to="trusted-users">Доверенные пользователи</Link></li>
               <li><Link to="refresh-chat">Автообновление оверлея jChat</Link></li>
