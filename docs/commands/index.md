@@ -14,7 +14,6 @@ custom_edit_url: null
     <li><b>Название:</b> link</li>
     <li><b>Элиасы:</b> links, del, aliases, private, announce, offline</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/links/links.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
@@ -35,7 +34,7 @@ custom_edit_url: null
 
 
 ## Удаление команд
-`!del <название или элиас>`
+`!del <название или элиаси команд через пробел>`
 <img src={require('@site/static/examples/commands/del.png').default} />
 
 
@@ -99,6 +98,12 @@ custom_edit_url: null
 `!linkcd <команда> <личный кд> <общий кд>`
 
 <img src={require('@site/static/examples/commands/linkcd.png').default} />
+
+## Копирование команд с другого канала
+Вы можете скопировать команды с другого канала, используя следующую команду:
+
+`!copy <команды через пробел> from <логин канала>`
+ <img src={require('@site/static/examples/commands/copy_commands.png').default} />
 
 ## Просмотр информации о командах 
 Просмотр элиасов, кд и таймеров команд

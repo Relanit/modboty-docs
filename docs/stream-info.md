@@ -13,7 +13,6 @@ custom_edit_url: null
     <li><b>Название:</b> t</li>
     <li><b>Элиасы:</b> g, addg, delg, games</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/stream_info.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
@@ -40,6 +39,14 @@ custom_edit_url: null
 ### Просмотр элиасов
 `!games`
 <img src={require('@site/static/examples/stream-info/games.png').default} />
+
+### Копирование элиасов с другого канала
+Вы можете скопировать элиасы категорий с другого канала, используя следующую команду:
+
+`!copy <элиасы через пробел> from <логин канала>`
+
+Можно указать `games`, тогда скопируются все элиасы
+<img src={require('@site/static/examples/stream-info/copy.png').default} />
 
 ### Просмотр информации об элиасах
 `!help <название или элиас>`

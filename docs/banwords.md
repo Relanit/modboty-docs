@@ -13,7 +13,6 @@ custom_edit_url: null
     <li><b>Название:</b> bword</li>
     <li><b>Элиасы:</b> mword, delb, delm, bwords, mwords</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/banwords.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
@@ -49,6 +48,13 @@ custom_edit_url: null
 Вы можете добавлять банворды и мутворды, которые будут действовать только на пользователей, впервые написавших в чат. Команды для них пишутся также, но первым словом указывается `first`
 
 <img src={require('@site/static/examples/banwords/first.png').default} />
+
+## Банворды с точным совпадением слов
+
+По умолчанию бат банит за использование банвордов, даже когда банворд является подстрокой другого слова (например "асу" и "пасуй"), но есть возможность это изменить, для этого напишите банворд в кавычках.
+
+<img src={require('@site/static/examples/banwords/exact.png').default} />
+
 
 ## Массбан
 

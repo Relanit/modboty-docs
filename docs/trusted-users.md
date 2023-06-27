@@ -13,7 +13,6 @@ custom_edit_url: null
     <li><b>Название:</b> trust</li>
     <li><b>Элиасы:</b> trusts, trustcmd, trustcmds</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/trusted_users.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 

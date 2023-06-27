@@ -13,7 +13,6 @@ custom_edit_url: null
     <li><b>Название:</b> timer</li>
     <li><b>Элиасы:</b> delt, timers</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/timers.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 

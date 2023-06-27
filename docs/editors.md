@@ -13,7 +13,6 @@ custom_edit_url: null
     <li><b>Название:</b> editor</li>
     <li><b>Элиасы:</b> editorcmd, editorcmds</li>
     <li><b>Кулдаун:</b> общий 3 секунды</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/editors.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
@@ -37,6 +36,10 @@ custom_edit_url: null
 :::note
 При блокировке команды будет ограничен доступ ко всем её элиасам и наоборот, например, при блокировке !mb будут также заблокированы !m и !mbf
 :::
+
+## Просмотр редакторов бота
+
+`!editors`
 
 ## Просмотр команд для редакторов
 `!editorcmds`

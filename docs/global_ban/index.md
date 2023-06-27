@@ -13,7 +13,6 @@ custom_edit_url: null
     <li><b>Название:</b> gb</li>
     <li><b>Элиасы:</b> requests, recents, gbmods, gbmod, approve, disapprove </li>
     <li><b>Кулдаун:</b> общий 1 секунда</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/global_ban.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 

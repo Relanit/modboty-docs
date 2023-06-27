@@ -7,6 +7,10 @@ sidebar_position: 1
 # Переменные
 Вы можете использовать в текстах команд переменные, которые будут заменяться другим значением при вызове команды
 
+## {accountage}
+При вызове команды переменная заменится на возраст аккаунта пользователя, вызвавшего команду.
+<img src={require('@site/static/examples/commands/variables/accountage.png').default} />
+
 ## {channel}
 При вызове команды переменная заменится на логин канала, на котором вызывается команда.
 <img src={require('@site/static/examples/commands/variables/channel.png').default} />
@@ -14,6 +18,12 @@ sidebar_position: 1
 ## {chatter}
 При вызове команды переменная заменится на ник случайного участника чата. Если нужно указать несколько чаттеров, можно использовать {chatter 1} {chatter 2} {chatter 3} и т.д.
 <img src={require('@site/static/examples/commands/variables/chatter.png').default} />
+
+## {commands}
+При вызове команды переменная заменится на список команд, которые есть на данном канале.
+
+Использование: `{commands public/private/offline/always}`
+<img src={require('@site/static/examples/commands/variables/commands.png').default} />
 
 ## {countdown}
 При вызове команды переменная заменится на время, оставшееся до наступления даты.
@@ -35,25 +45,29 @@ sidebar_position: 1
 <img src={require('@site/static/examples/commands/variables/countdown.png').default} />
 
 ## {emote}
-Использование: `{emote название_канала}`
-
-При вызове заменится на рандомный смайл с текущего канала или указанного.
+При вызове заменится на рандомный смайл с текущего канала.
 <img src={require('@site/static/examples/commands/variables/emote.png').default} />
 
 ## {followage}
-Использование: `{followage ник_пользователя ник_стримера}`
-
 При вызове заменится на срок отслеживания стримера пользователем. По умолчанию выдаст срок отслеживания для вызвавшего пользователя на текущий канал.
+
+Использование: `{followage ник_пользователя ник_стримера}`
 <img src={require('@site/static/examples/commands/variables/followage.png').default} />
 
 ## {followcount}
 При вызове заменится на количество фолловеров канала, на котором вызывается команда.
 <img src={require('@site/static/examples/commands/variables/followcount.png').default} />
 
-## {math}
-Использование: `{math математическое выражение}`
+## {horoscope}
+При вызове заменится на гороскоп для знака зодиака.
 
+Использование: `{horoscope знак_зодиака}`
+<img src={require('@site/static/examples/commands/variables/horoscope.png').default} />
+
+## {math}
 При вызове заменится на результат выражения.
+
+Использование: `{math математическое выражение}`
 <img src={require('@site/static/examples/commands/variables/math.png').default} />
 
 ## {pick}
@@ -64,9 +78,9 @@ sidebar_position: 1
 <img src={require('@site/static/examples/commands/variables/pick2.png').default} />
 
 ## {query}
-Использование: `{query значение по умолчанию}`
-
 При вызове команды переменная заменится на текст, указанный пользователем. Если пользователь не указал текст, используется текст по умолчанию.
+
+Использование: `{query значение по умолчанию}`
 <img src={require('@site/static/examples/commands/variables/query.png').default} />
 
 ## {randint}
@@ -92,3 +106,8 @@ sidebar_position: 1
 :::
 
 <img src={require('@site/static/examples/commands/variables/subcount.png').default} />
+
+## {weather}
+При вызове заменится на прогноз погоды для указанного населённого пункта.
+
+<img src={require('@site/static/examples/commands/variables/weather.png').default} />

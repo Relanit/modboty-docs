@@ -15,7 +15,6 @@ custom_edit_url: null
     <li><b>Название:</b> refresh-chat</li>
     <li><b>Элиасы:</b> отсутствуют</li>
     <li><b>Кулдаун:</b> общий 5 секунд</li>
-    <li><a href="https://github.com/Relanit/ModBoty/blob/master/ModBoty/cogs/refresh_overlay.py"><b>Исходный код</b></a></li>
   </ul>
 </details>
 
