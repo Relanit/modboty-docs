@@ -15,5 +15,4 @@ Twitch **[требует](https://dev.twitch.tv/docs/authentication#user-access-
 - [Опросы](./polls.md)
 - [Ставки](./predictions.md)
 - [Настройки стрима](./stream-info.md)
-- [Разбан всех пользователей](./unban-all.md)
 - [Некоторые переменные команд](./commands/variables.md)
