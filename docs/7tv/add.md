@@ -14,16 +14,12 @@ sidebar_position: 1
 
 <img src={require('@site/static/examples/7tv/7add.png').default} />
 
-### Добавление с точным совпадением названия
-`!7add <название> exact`
-<img src={require('@site/static/examples/7tv/7add-exact.png').default} />
-
 ### Добавление с тегами
 `!7add <название> <теги через пробел>`
 <img src={require('@site/static/examples/7tv/7add-tags.png').default} />
 
 ### Добавление по ссылке
-`!7add <ссылка>`
+`!7add <ссылки через пробел>`
 <img src={require('@site/static/examples/7tv/7add-link.png').default} />
 
 ### Добавление с элиасом

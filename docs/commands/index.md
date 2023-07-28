@@ -34,7 +34,7 @@ custom_edit_url: null
 
 
 ## Удаление команд
-`!del <название или элиаси команд через пробел>`
+`!del <названия или элиасы команд через пробел>`
 <img src={require('@site/static/examples/commands/del.png').default} />
 
 

@@ -15,18 +15,12 @@ function HomepageHeader() {
         <h1 className="hero__title" style={{color:"white"}}>{siteConfig.title}</h1>
         <p className="hero__subtitle" style={{color:"white"}}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-        {/* <Link
+         <Link
             className="button button--secondary button--lg"
             to="install"
           >
             Добавить бота
           </Link>
-          <Link
-            className="button button--primary button--lg"
-            to="docs/category/возможности"
-          >
-            Документация
-          </Link> */}
         </div>
       </div>
     </header>
@@ -41,7 +35,7 @@ export default function Home(): JSX.Element {
       description="Модераторский бот для Twitch">
       <HomepageHeader />
       <main>
-        <div className={styles.test}>
+        <div className={styles.commands}>
           <div>
             <h1>Список команд:</h1>
             <ul>

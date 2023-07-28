@@ -36,6 +36,8 @@ custom_edit_url: null
 <img src={require('@site/static/examples/timers/timer-a.png').default} />
 
 ## Изменение режима работы таймера
+По умолчанию таймеры работают только на стриме
+
 `!timer <команда> <online или always>`
 <img src={require('@site/static/examples/timers/timer-always.png').default} />
 

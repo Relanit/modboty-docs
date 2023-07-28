@@ -9,14 +9,20 @@ sidebar_position: 1
 
 ## {accountage}
 При вызове команды переменная заменится на возраст аккаунта пользователя, вызвавшего команду.
+
+Использование: `{accountage логин}`
 <img src={require('@site/static/examples/commands/variables/accountage.png').default} />
 
 ## {channel}
 При вызове команды переменная заменится на логин канала, на котором вызывается команда.
+
+Использование: `{channel}`
 <img src={require('@site/static/examples/commands/variables/channel.png').default} />
 
 ## {chatter}
 При вызове команды переменная заменится на ник случайного участника чата. Если нужно указать несколько чаттеров, можно использовать {chatter 1} {chatter 2} {chatter 3} и т.д.
+
+Использование: `{chatter}`
 <img src={require('@site/static/examples/commands/variables/chatter.png').default} />
 
 ## {commands}
@@ -46,16 +52,25 @@ sidebar_position: 1
 
 ## {emote}
 При вызове заменится на рандомный смайл с текущего канала.
+
+Использование: `{emote}`
 <img src={require('@site/static/examples/commands/variables/emote.png').default} />
 
 ## {followage}
 При вызове заменится на срок отслеживания стримера пользователем. По умолчанию выдаст срок отслеживания для вызвавшего пользователя на текущий канал.
 
 Использование: `{followage ник_пользователя ник_стримера}`
+
+:::note
+Таймер, в тексте которого есть `{sender}`, не будет работать
+:::
+
 <img src={require('@site/static/examples/commands/variables/followage.png').default} />
 
 ## {followcount}
 При вызове заменится на количество фолловеров канала, на котором вызывается команда.
+
+Использование: `{followcount}`
 <img src={require('@site/static/examples/commands/variables/followcount.png').default} />
 
 ## {horoscope}
@@ -109,5 +124,8 @@ sidebar_position: 1
 
 ## {weather}
 При вызове заменится на прогноз погоды для указанного населённого пункта.
+
+
+Использование: `{weather город}`
 
 <img src={require('@site/static/examples/commands/variables/weather.png').default} />

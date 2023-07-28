@@ -58,11 +58,46 @@ const config = {
         },
         items: [
           {
+            href: "https://www.donationalerts.com/r/relanit",
+            label: "Поддержать разработчика",
+            position: 'left'
+          },
+          {
             href: 'https://github.com/relanit/modboty-docs',
             className: 'header-github-link',
             position: 'right',
           },
         ],
+      },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            items: [
+              {
+                label: ' ',
+                href: 'https://t.me/modboty',
+                className: 'footer-telegram-link'
+              },
+              {
+                label: ' ',
+                href: 'https://twitch.tv/modboty',
+                className: 'footer-twitch-link'
+              },
+              {
+                label: ' ',
+                href: 'https://discordapp.com/users/632210040245452811',
+                className: 'header-discord-link'
+              },
+              {
+                label: ' ',
+                href: 'https://github.com/relanit',
+                className: 'header-github-link',
+              },
+            ],
+          },
+        ],
+        copyright: ` © ${new Date().getFullYear()} Relanit. Не связано с Twitch.`,
       },
       prism: {
         theme: lightCodeTheme,
