@@ -16,3 +16,9 @@ Twitch **[требует](https://dev.twitch.tv/docs/authentication#user-access-
 - [Ставки](./predictions.md)
 - [Настройки стрима](./stream-info.md)
 - [Некоторые переменные команд](./commands/variables.md)
+
+## Отмена авторизации
+
+Для отмены авторизации отключите приложение в настроках твича:
+
+`Настройки → Подключения → ModBoty → Отключить`

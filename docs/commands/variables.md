@@ -122,9 +122,12 @@ sidebar_position: 1
 
 <img src={require('@site/static/examples/commands/variables/subcount.png').default} />
 
+## {uptime}
+При вызове заменится на время, прошедшее с начала стрима и игры, или на время, прошедшее с конца прошлого стрима.
+<img src={require('@site/static/examples/commands/variables/uptime.png').default} />
+
 ## {weather}
 При вызове заменится на прогноз погоды для указанного населённого пункта.
-
 
 Использование: `{weather город}`
 
