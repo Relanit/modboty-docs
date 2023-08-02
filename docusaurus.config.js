@@ -134,7 +134,8 @@ const config = {
   
         // Optional: path for search page that enabled by default (`false` to disable it)
         // searchPagePath: 'search',
-      }
+      },
+      metadata: [{name: 'keywords', content: 'Twitch, бот, модератор, модерация, 7тв, 7tv, команды, чат'}],
     }),
     // themes: [
     //   ['@easyops-cn/docusaurus-search-local', ({hashed: true, language: ["ru", "en"], searchBarShortcutHint: false, indexBlog: false})],

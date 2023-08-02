@@ -50,6 +50,11 @@ sidebar_position: 1
 Для указания часового пояса необходимо приписать к времени смещение от UTC (для Москвы это +03:00)
 <img src={require('@site/static/examples/commands/variables/countdown.png').default} />
 
+## {countup}
+Работает также, как `{countdown}`, только переменная заменится на время, прошедшее с указанной даты.
+
+<img src={require('@site/static/examples/commands/variables/countup.png').default} />
+
 ## {emote}
 При вызове заменится на рандомный смайл с текущего канала.
 
