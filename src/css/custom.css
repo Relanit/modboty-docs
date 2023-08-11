@@ -160,9 +160,9 @@ body::-webkit-scrollbar-thumb {
     min-height: 0px;
   }
 
-  .logo {
+  /* .logo {
     width: 125px;
-  }
+  } */
 }
 
 .button--secondary {
