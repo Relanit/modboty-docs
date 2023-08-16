@@ -128,6 +128,11 @@
   margin-bottom: 0px;
 }
 
+.markdown img {
+  border-radius: 10px;
+  box-shadow: rgb(12, 12, 12) 0px 1px 7px 0px;
+}
+
 [data-theme='dark'] .DocSearch {
   --docsearch-primary-color:#ff0000;
   --docsearch-logo-color:#ff0000;
