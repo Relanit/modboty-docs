@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ModBoty',
   tagline: 'Добро пожаловать на страницу документации',
-  url: 'https://docs.modbot.xyz',
-  baseUrl: '/',
+  url: 'https://relanit.github.io',
+  baseUrl: '/modboty-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -124,10 +124,10 @@ const config = {
   
   
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/modboty-docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
+        // replaceSearchResultPathname: {
+        //   from: '/modboty-docs/', // or as RegExp: /\/docs\//
+        //   to: '/',
+        // },
   
         // Optional: Algolia search parameters
         // searchParameters: {},
