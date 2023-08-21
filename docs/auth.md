@@ -19,6 +19,6 @@ Twitch **[требует](https://dev.twitch.tv/docs/authentication#user-access-
 
 ## Отмена авторизации
 
-Для отмены авторизации отключите приложение в настроках Twitch:
+Для отмены авторизации отключите приложение в [настройках](https://www.twitch.tv/settings/connections) Twitch:
 
-`Настройки → Подключения → ModBoty → Отключить`
+`Подключения → ModBoty → Отключить`

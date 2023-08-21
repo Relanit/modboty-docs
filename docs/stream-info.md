@@ -22,11 +22,11 @@ custom_edit_url: null
 
 ## Изменение заголовка
 `!t <заголовок>`
-<img src={require('@site/static/examples/stream-info/t.png').default} />
+<img src={require('@site/static/examples/stream-info/t.png').default} alt="title"/>
 
 ## Изменение категории
 `!g <название категории>`
-<img src={require('@site/static/examples/stream-info/g.png').default} />
+<img src={require('@site/static/examples/stream-info/g.png').default} alt="game just chatting"/>
 
 ### Добавить элиас категории
 `!addg <элиас> <название категории>`
