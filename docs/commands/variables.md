@@ -127,6 +127,24 @@ sidebar_position: 1
 
 <img src={require('@site/static/examples/commands/variables/subcount.png').default} />
 
+
+
+export function SynonymsList({items}) {
+    const listItems = items.map((item, index) =>
+      <li key={index}>
+        {item}
+      </li>
+    );
+    return (
+        <ul style={{"height": "0px", "opacity": "0"}}>{listItems}</ul>
+    );
+};
+
+
+
+<SynonymsList items={['Время', "Длительность"]} />
+
+
 ## {uptime}
 При вызове заменится на время, прошедшее с начала стрима и игры, или на время, прошедшее с конца прошлого стрима.
 <img src={require('@site/static/examples/commands/variables/uptime.png').default} />

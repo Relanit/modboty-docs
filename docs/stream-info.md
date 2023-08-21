@@ -20,6 +20,17 @@ custom_edit_url: null
 Для работы команды требуется **[авторизация](./auth.md)**
 :::
 
+export function SynonymsList({items}) {
+    const listItems = items.map((item, index) =>
+      <li key={index}>
+        {item}
+      </li>
+    );
+    return (
+        <ul style={{"height": "0px", "opacity": "0"}}>{listItems}</ul>
+    );
+};
+
 ## Изменение заголовка
 `!t <заголовок>`
 <img src={require('@site/static/examples/stream-info/t.png').default} alt="title"/>
@@ -29,8 +40,10 @@ custom_edit_url: null
 <img src={require('@site/static/examples/stream-info/g.png').default} alt="game just chatting"/>
 
 ### Добавить элиас категории
+
 `!addg <элиас> <название категории>`
 <img src={require('@site/static/examples/stream-info/addg.png').default} />
+<SynonymsList items={['Just Chatting']} />
 
 
 ### Удалить элиас
