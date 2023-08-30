@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Команды`}
-      description="Список команд Modboty. ModBoty ‒ это модераторский бот для Twitch c возможностью добавления пользовательских команд, управления 7TV смайлами и с многими другими функциями для модерации чата">
+      description="Список команд Modboty. ModBoty ‒ это модераторский бот для Twitch c возможностью добавления пользовательских команд, управления 7TV смайлами и функциями для модерации чата">
       <HomepageHeader />
       <main>
         <div className={styles.commands}>
