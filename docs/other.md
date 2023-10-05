@@ -38,3 +38,7 @@ sidebar_position: 19
 
 ## Проверка бота
 `!ping`
+
+## Добавление заблокированной фразы в AutoMod
+`!bterm <фраза>`
+<img src={require('@site/static/examples/other/bterm.png').default} />
