@@ -6,6 +6,19 @@ custom_edit_url: null
 
 # 7TV
 
+<details>
+  <summary>Общая информация</summary>
+  <ul>
+    <li><b>Название:</b> 7add</li>
+    <li><b>Элиасы:</b> 7del, 7alias, 7editor, 7editors, 7set, 7sets, 7origin, 7copy</li>
+    <li><b>Кулдаун:</b> общий 3 секунды</li>
+  </ul>
+</details>
+
+:::note Боту необходима редакторка 7TV со следующими разрешениями
+<CheckboxList color="fdfdfe" items={['Modify Emotes', 'Use Private Emotes', 'Manage Emote Sets', 'Manage Editors']} />
+:::
+
 Список всех 7TV команд:
 
 import DocCardList from '@theme/DocCardList';
@@ -25,19 +38,3 @@ export function CheckboxList({items, color}) {
         <ul style={{"listStyle": "none"}}>{listItems}</ul>
     );
 }
-
-<details>
-  <summary>Общая информация</summary>
-  <ul>
-    <li><b>Название:</b> 7add</li>
-    <li><b>Элиасы:</b> 7del, 7alias, 7editor, 7editors, 7set, 7sets, 7origin, 7copy</li>
-    <li><b>Кулдаун:</b> общий 3 секунды</li>
-  </ul>
-</details>
-
-:::note Боту необходима редакторка 7TV со следующими разрешениями
-<CheckboxList color="fdfdfe" items={['Modify Emotes', 'Use Private Emotes', 'Manage Emote Sets', 'Manage Editors']} />
-:::
-
-:::note Команды могут вызывать только редакторы 7TV
-:::
