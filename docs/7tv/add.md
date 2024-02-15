@@ -33,3 +33,9 @@ sidebar_position: 1
 ### Добавление в набор с указанным названием
 `!7add <значения> to <название набора>`
 <img src={require('@site/static/examples/7tv/7add-to.png').default} />
+
+### Добавление с заменой смайла
+Если произойдёт конфликт названий, то новый смайл заменит предыдущий
+
+`!7add <значения> -r`
+<img src={require('@site/static/examples/7tv/7add-replace.png').default} />
