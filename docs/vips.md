@@ -65,7 +65,7 @@ custom_edit_url: null
     !unvip <ник> on 1/5  анвип будет 5 января
     !unvip <ник> on 1st december
     !unvip <ник> on 21:00
-    !unvip <ник> on 2023.1.1 00:00
+    !unvip <ник> on 2026.1.1 00:00
     !unvip <ник> on tomorrow 00:00
     !unvip <ник> on fri  анвип будет в пятницу
     !unvip <ник> on next wed   анвип будет в следующую среду

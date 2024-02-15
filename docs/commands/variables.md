@@ -118,6 +118,14 @@ sidebar_position: 1
 
 <img src={require('@site/static/examples/commands/variables/sender.png').default} />
 
+
+## {subage}
+При вызове заменится на время подписки пользователя на текущий канал.
+
+Использование: `{subage ник пользователя}`
+<img src={require('@site/static/examples/commands/variables/subage.png').default} />
+
+
 ## {subcount}
 При вызове заменится на количество подписчиков канала, на котором вызывается команда.
 

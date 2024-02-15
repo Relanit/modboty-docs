@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ModBoty',
   tagline: 'Добро пожаловать на страницу документации',
-  url: 'https://docs.modbot.xyz',
+  url: 'https://docs.modboty.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
