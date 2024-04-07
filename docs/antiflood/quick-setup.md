@@ -51,6 +51,11 @@ sidebar_position: 1
 `!af <online или always>`
 <img src={require('@site/static/examples/antiflood/af-offline.png').default} />
 
+## Мут за ссылки на видео
+Бот будет мутить за отправку ссылок на видео, если они отправлены вне наград за баллы канала. Не мутит сабов и випов.
+
+`!af video <on или off>`
+
 
 ## Просмотр настроек
 
