@@ -78,11 +78,23 @@ sidebar_position: 1
 Использование: `{followcount}`
 <img src={require('@site/static/examples/commands/variables/followcount.png').default} />
 
+## {fromindex}
+Возвращает все слова, указанные после слова под указанным номером, следующего за именем команды.
+
+Использование: `{fromindex запасной ответ}`
+<img src={require('@site/static/examples/commands/variables/fromindex.png').default} />
+
 ## {horoscope}
 При вызове заменится на гороскоп для знака зодиака.
 
 Использование: `{horoscope знак_зодиака}`
 <img src={require('@site/static/examples/commands/variables/horoscope.png').default} />
+
+## {index}
+Возвращает слово, под указанным номером после названия команды.
+
+Использование: `{index запасной ответ}`
+<img src={require('@site/static/examples/commands/variables/index.png').default} />
 
 ## {math}
 При вызове заменится на результат выражения.
